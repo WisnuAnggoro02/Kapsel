@@ -1,0 +1,433 @@
+Negara,Status,Tahun,AHH,CO2,Region
+Austria,Maju,2010,80.8,67.8,Eropa
+Austria,Maju,2011,81,64.7,Eropa
+Austria,Maju,2012,81.2,62.2,Eropa
+Austria,Maju,2013,81.3,62.9,Eropa
+Austria,Maju,2014,81.5,58.6,Eropa
+Austria,Maju,2015,81.6,60.7,Eropa
+Austria,Maju,2016,81.8,61.6,Eropa
+Austria,Maju,2017,82,64.4,Eropa
+Austria,Maju,2018,82.1,62.1,Eropa
+Austria,Maju,2019,82.2,63.6,Eropa
+Austria,Maju,2020,81.5,56.0,Eropa
+Austria,Maju,2021,82.4,58.4,Eropa
+Belgia,Maju,2010,80.2,133.5,Eropa
+Belgia,Maju,2011,80.4,120.6,Eropa
+Belgia,Maju,2012,80.5,116.3,Eropa
+Belgia,Maju,2013,80.7,117.3,Eropa
+Belgia,Maju,2014,81,109.0,Eropa
+Belgia,Maju,2015,81.1,115.2,Eropa
+Belgia,Maju,2016,81.3,116.9,Eropa
+Belgia,Maju,2017,81.4,118.8,Eropa
+Belgia,Maju,2018,81.4,125.4,Eropa
+Belgia,Maju,2019,81.4,121.7,Eropa
+Belgia,Maju,2020,80.2,105.5,Eropa
+Belgia,Maju,2021,81.7,114.7,Eropa
+Rumania,Berkembang,2010,73.8,78.2,Eropa
+Rumania,Berkembang,2011,74.6,85.1,Eropa
+Rumania,Berkembang,2012,74.7,81.7,Eropa
+Rumania,Berkembang,2013,75.3,69.8,Eropa
+Rumania,Berkembang,2014,75,71.1,Eropa
+Rumania,Berkembang,2015,75.3,71.9,Eropa
+Rumania,Berkembang,2016,75.3,69.5,Eropa
+Rumania,Berkembang,2017,75.4,72.9,Eropa
+Rumania,Berkembang,2018,75.5,73.4,Eropa
+Rumania,Berkembang,2019,75.5,71.7,Eropa
+Rumania,Berkembang,2020,74.1,64.6,Eropa
+Rumania,Berkembang,2021,75.8,70.3,Eropa
+Makedonia,Berkembang,2010,73.4,8.5,Eropa
+Makedonia,Berkembang,2011,73.7,9.3,Eropa
+Makedonia,Berkembang,2012,73.7,8.9,Eropa
+Makedonia,Berkembang,2013,74,7.9,Eropa
+Makedonia,Berkembang,2014,74,7.5,Eropa
+Makedonia,Berkembang,2015,74,7.2,Eropa
+Makedonia,Berkembang,2016,73.8,7.1,Eropa
+Makedonia,Berkembang,2017,74.1,7.5,Eropa
+Makedonia,Berkembang,2018,74.3,7.1,Eropa
+Makedonia,Berkembang,2019,74.4,8.1,Eropa
+Makedonia,Berkembang,2020,72.8,6.6,Eropa
+Makedonia,Berkembang,2021,74.6,6.9,Eropa
+Jerman,Maju,2010,80.5,783.2,Eropa
+Jerman,Maju,2011,80.7,763.7,Eropa
+Jerman,Maju,2012,80.8,773.0,Eropa
+Jerman,Maju,2013,80.8,797.6,Eropa
+Jerman,Maju,2014,81,751.1,Eropa
+Jerman,Maju,2015,80.9,755.6,Eropa
+Jerman,Maju,2016,81,770.5,Eropa
+Jerman,Maju,2017,81.1,760.9,Eropa
+Jerman,Maju,2018,81.2,733.1,Eropa
+Jerman,Maju,2019,81.2,680.1,Eropa
+Jerman,Maju,2020,81,600.8,Eropa
+Jerman,Maju,2021,81.5,628.9,Eropa
+Ukraina,Berkembang,2010,70.8,288.7,Eropa
+Ukraina,Berkembang,2011,71.5,303.2,Eropa
+Ukraina,Berkembang,2012,71.6,299.1,Eropa
+Ukraina,Berkembang,2013,71.8,286.5,Eropa
+Ukraina,Berkembang,2014,71.7,246.8,Eropa
+Ukraina,Berkembang,2015,72.5,195.1,Eropa
+Ukraina,Berkembang,2016,72.9,215.6,Eropa
+Ukraina,Berkembang,2017,73.8,187.9,Eropa
+Ukraina,Berkembang,2018,73.9,198.7,Eropa
+Ukraina,Berkembang,2019,73.8,185.5,Eropa
+Ukraina,Berkembang,2020,73.2,172.9,Eropa
+Ukraina,Berkembang,2021,74.1,167.9,Eropa
+Argentina,Berkembang,2010,75.9,167.1,Amerika
+Argentina,Berkembang,2011,76,173.1,Amerika
+Argentina,Berkembang,2012,76.2,181.9,Amerika
+Argentina,Berkembang,2013,76.3,187.8,Amerika
+Argentina,Berkembang,2014,76.5,187.8,Amerika
+Argentina,Berkembang,2015,76.5,191.2,Amerika
+Argentina,Berkembang,2016,76.2,190.1,Amerika
+Argentina,Berkembang,2017,76.3,188.5,Amerika
+Argentina,Berkembang,2018,76.5,185.9,Amerika
+Argentina,Berkembang,2019,76.6,175.5,Amerika
+Argentina,Berkembang,2020,74.6,164.8,Amerika
+Argentina,Berkembang,2021,76.9,181.7,Amerika
+Brazil,Berkembang,2010,73.8,399.4,Amerika
+Brazil,Berkembang,2011,74,424.2,Amerika
+Brazil,Berkembang,2012,74.3,444.5,Amerika
+Brazil,Berkembang,2013,74.5,483.0,Amerika
+Brazil,Berkembang,2014,74.8,505.2,Amerika
+Brazil,Berkembang,2015,75,476.6,Amerika
+Brazil,Berkembang,2016,75,440.8,Amerika
+Brazil,Berkembang,2017,75.4,446.4,Amerika
+Brazil,Berkembang,2018,75.7,427.6,Amerika
+Brazil,Berkembang,2019,75.8,425.1,Amerika
+Brazil,Berkembang,2020,73.6,390.5,Amerika
+Brazil,Berkembang,2021,76.3,436.6,Amerika
+US,Maju,2010,78.9,5485.7,Amerika
+US,Maju,2011,78.9,5336.2,Amerika
+US,Maju,2012,79,5089.1,Amerika
+US,Maju,2013,79.1,5246.6,Amerika
+US,Maju,2014,79.1,5251.7,Amerika
+US,Maju,2015,79,5137.5,Amerika
+US,Maju,2016,78.9,5038.0,Amerika
+US,Maju,2017,79,4978.8,Amerika
+US,Maju,2018,79,5132.7,Amerika
+US,Maju,2019,78.9,4980.9,Amerika
+US,Maju,2020,77,4420.6,Amerika
+US,Maju,2021,79,4701.1,Amerika
+Meksiko,Berkembang,2010,75.3,442.6,Amerika
+Meksiko,Berkembang,2011,75.5,465.8,Amerika
+Meksiko,Berkembang,2012,75.7,474.0,Amerika
+Meksiko,Berkembang,2013,75.5,472.8,Amerika
+Meksiko,Berkembang,2014,75.6,459.6,Amerika
+Meksiko,Berkembang,2015,75.7,463.1,Amerika
+Meksiko,Berkembang,2016,75.5,468.8,Amerika
+Meksiko,Berkembang,2017,75.5,476.9,Amerika
+Meksiko,Berkembang,2018,75.5,468.2,Amerika
+Meksiko,Berkembang,2019,75.6,449.3,Amerika
+Meksiko,Berkembang,2020,73,357.7,Amerika
+Meksiko,Berkembang,2021,75.8,373.8,Amerika
+Kanada,Maju,2010,81.6,546.3,Amerika
+Kanada,Maju,2011,81.9,550.2,Amerika
+Kanada,Maju,2012,82,546.5,Amerika
+Kanada,Maju,2013,82.1,560.7,Amerika
+Kanada,Maju,2014,82.2,566.4,Amerika
+Kanada,Maju,2015,82.3,566.2,Amerika
+Kanada,Maju,2016,82.3,547.7,Amerika
+Kanada,Maju,2017,82.4,563.7,Amerika
+Kanada,Maju,2018,82.2,573.5,Amerika
+Kanada,Maju,2019,82.2,571.3,Amerika
+Kanada,Maju,2020,81.5,517.3,Amerika
+Kanada,Maju,2021,82.5,527.4,Amerika
+Venezuela,Berkembang,2010,75.3,167.4,Amerika
+Venezuela,Berkembang,2011,75.4,167.3,Amerika
+Venezuela,Berkembang,2012,75.2,177.9,Amerika
+Venezuela,Berkembang,2013,75.5,183.4,Amerika
+Venezuela,Berkembang,2014,75.6,173.3,Amerika
+Venezuela,Berkembang,2015,75.7,172.2,Amerika
+Venezuela,Berkembang,2016,75.6,149.3,Amerika
+Venezuela,Berkembang,2017,75.5,146.3,Amerika
+Venezuela,Berkembang,2018,75.4,121.1,Amerika
+Venezuela,Berkembang,2019,75,100.1,Amerika
+Venezuela,Berkembang,2020,75.1,82.8,Amerika
+Venezuela,Berkembang,2021,75.1,89.2,Amerika
+Iran,Berkembang,2010,75.5,504.8,Timur Tengah
+Iran,Berkembang,2011,75.8,517.0,Timur Tengah
+Iran,Berkembang,2012,76,522.7,Timur Tengah
+Iran,Berkembang,2013,76.2,545.2,Timur Tengah
+Iran,Berkembang,2014,76.5,557.2,Timur Tengah
+Iran,Berkembang,2015,76.7,551.0,Timur Tengah
+Iran,Berkembang,2016,77.1,569.8,Timur Tengah
+Iran,Berkembang,2017,77.3,581.1,Timur Tengah
+Iran,Berkembang,2018,77.6,606.1,Timur Tengah
+Iran,Berkembang,2019,77.8,628.1,Timur Tengah
+Iran,Berkembang,2020,76.2,645.4,Timur Tengah
+Iran,Berkembang,2021,78.2,660.5,Timur Tengah
+Iraq,Berkembang,2010,70.6,92.4,Timur Tengah
+Iraq,Berkembang,2011,71,94.2,Timur Tengah
+Iraq,Berkembang,2012,71.3,103.5,Timur Tengah
+Iraq,Berkembang,2013,70.9,115.2,Timur Tengah
+Iraq,Berkembang,2014,69.9,110.8,Timur Tengah
+Iraq,Berkembang,2015,70.7,107.0,Timur Tengah
+Iraq,Berkembang,2016,70.9,122.0,Timur Tengah
+Iraq,Berkembang,2017,71.5,129.0,Timur Tengah
+Iraq,Berkembang,2018,73.3,156.2,Timur Tengah
+Iraq,Berkembang,2019,73.3,145.4,Timur Tengah
+Iraq,Berkembang,2020,72.1,130.0,Timur Tengah
+Iraq,Berkembang,2021,73.6,141.0,Timur Tengah
+Kuwait,Berkembang,2010,80.1,87.4,Timur Tengah
+Kuwait,Berkembang,2011,80.9,88.9,Timur Tengah
+Kuwait,Berkembang,2012,81,92.2,Timur Tengah
+Kuwait,Berkembang,2013,81.3,94.6,Timur Tengah
+Kuwait,Berkembang,2014,81.6,96.3,Timur Tengah
+Kuwait,Berkembang,2015,81.5,99.6,Timur Tengah
+Kuwait,Berkembang,2016,81.6,97.8,Timur Tengah
+Kuwait,Berkembang,2017,81.6,99.8,Timur Tengah
+Kuwait,Berkembang,2018,81.6,101.9,Timur Tengah
+Kuwait,Berkembang,2019,81.5,103.7,Timur Tengah
+Kuwait,Berkembang,2020,81.2,95.9,Timur Tengah
+Kuwait,Berkembang,2021,81.7,103.1,Timur Tengah
+Oman,Berkembang,2010,70.4,49.0,Timur Tengah
+Oman,Berkembang,2011,70.8,52.2,Timur Tengah
+Oman,Berkembang,2012,71.5,57.6,Timur Tengah
+Oman,Berkembang,2013,71.9,65.7,Timur Tengah
+Oman,Berkembang,2014,72.3,65.2,Timur Tengah
+Oman,Berkembang,2015,72.4,68.7,Timur Tengah
+Oman,Berkembang,2016,72.6,69.1,Timur Tengah
+Oman,Berkembang,2017,72.9,74.3,Timur Tengah
+Oman,Berkembang,2018,73.6,76.2,Timur Tengah
+Oman,Berkembang,2019,74,76.1,Timur Tengah
+Oman,Berkembang,2020,72.7,73.1,Timur Tengah
+Oman,Berkembang,2021,74.4,82.1,Timur Tengah
+Qatar,Berkembang,2010,73.4,62.2,Timur Tengah
+Qatar,Berkembang,2011,73.9,74.2,Timur Tengah
+Qatar,Berkembang,2012,74.3,89.2,Timur Tengah
+Qatar,Berkembang,2013,74.7,99.6,Timur Tengah
+Qatar,Berkembang,2014,74.9,109.6,Timur Tengah
+Qatar,Berkembang,2015,75.5,123.3,Timur Tengah
+Qatar,Berkembang,2016,75.7,123.1,Timur Tengah
+Qatar,Berkembang,2017,75.9,115.7,Timur Tengah
+Qatar,Berkembang,2018,76.1,119.0,Timur Tengah
+Qatar,Berkembang,2019,76.3,124.8,Timur Tengah
+Qatar,Berkembang,2020,76.2,107.6,Timur Tengah
+Qatar,Berkembang,2021,76.5,115.3,Timur Tengah
+Arab Saudi,Berkembang,2010,71.8,472.0,Timur Tengah
+Arab Saudi,Berkembang,2011,72.2,499.8,Timur Tengah
+Arab Saudi,Berkembang,2012,72.6,525.0,Timur Tengah
+Arab Saudi,Berkembang,2013,72.9,534.1,Timur Tengah
+Arab Saudi,Berkembang,2014,73.2,573.3,Timur Tengah
+Arab Saudi,Berkembang,2015,73.3,591.2,Timur Tengah
+Arab Saudi,Berkembang,2016,73.7,618.5,Timur Tengah
+Arab Saudi,Berkembang,2017,74,608.1,Timur Tengah
+Arab Saudi,Berkembang,2018,74.3,604.5,Timur Tengah
+Arab Saudi,Berkembang,2019,74.5,582.2,Timur Tengah
+Arab Saudi,Berkembang,2020,74.3,569.2,Timur Tengah
+Arab Saudi,Berkembang,2021,74.8,575.3,Timur Tengah
+Mesir,Berkembang,2010,69.4,184.2,Afrika
+Mesir,Berkembang,2011,69.6,192.5,Afrika
+Mesir,Berkembang,2012,69.7,199.6,Afrika
+Mesir,Berkembang,2013,70.1,201.3,Afrika
+Mesir,Berkembang,2014,70.3,200.0,Afrika
+Mesir,Berkembang,2015,69.9,203.0,Afrika
+Mesir,Berkembang,2016,70.2,215.4,Afrika
+Mesir,Berkembang,2017,70.5,220.3,Afrika
+Mesir,Berkembang,2018,70.7,217.7,Afrika
+Mesir,Berkembang,2019,71,223.8,Afrika
+Mesir,Berkembang,2020,71,203.3,Afrika
+Mesir,Berkembang,2021,71.3,219.6,Afrika
+Maroko,Berkembang,2010,71.9,49.1,Afrika
+Maroko,Berkembang,2011,72.1,52.9,Afrika
+Maroko,Berkembang,2012,72.3,53.9,Afrika
+Maroko,Berkembang,2013,72.1,54.3,Afrika
+Maroko,Berkembang,2014,72.3,56.5,Afrika
+Maroko,Berkembang,2015,72.5,56.7,Afrika
+Maroko,Berkembang,2016,72.8,57.1,Afrika
+Maroko,Berkembang,2017,72.9,60.1,Afrika
+Maroko,Berkembang,2018,73.1,61.7,Afrika
+Maroko,Berkembang,2019,73.3,67.8,Afrika
+Maroko,Berkembang,2020,73,62.1,Afrika
+Maroko,Berkembang,2021,73.8,68.9,Afrika
+Afrika Selatan,Berkembang,2010,57.1,474.9,Afrika
+Afrika Selatan,Berkembang,2011,58.7,466.3,Afrika
+Afrika Selatan,Berkembang,2012,60.1,462.1,Afrika
+Afrika Selatan,Berkembang,2013,61.3,462.8,Afrika
+Afrika Selatan,Berkembang,2014,61.8,467.2,Afrika
+Afrika Selatan,Berkembang,2015,62.3,455.1,Afrika
+Afrika Selatan,Berkembang,2016,62.7,473.9,Afrika
+Afrika Selatan,Berkembang,2017,63.2,469.9,Afrika
+Afrika Selatan,Berkembang,2018,64.4,451.7,Afrika
+Afrika Selatan,Berkembang,2019,65.1,473.7,Afrika
+Afrika Selatan,Berkembang,2020,64.3,437.2,Afrika
+Afrika Selatan,Berkembang,2021,65.6,438.9,Afrika
+Kenya,Berkembang,2010,61.2,76.3,Afrika
+Kenya,Berkembang,2011,62,80.2,Afrika
+Kenya,Berkembang,2012,62.6,81.0,Afrika
+Kenya,Berkembang,2013,63.2,89.9,Afrika
+Kenya,Berkembang,2014,63.8,100.7,Afrika
+Kenya,Berkembang,2015,64.4,104.7,Afrika
+Kenya,Berkembang,2016,65.1,103.3,Afrika
+Kenya,Berkembang,2017,65.7,111.9,Afrika
+Kenya,Berkembang,2018,66.1,117.5,Afrika
+Kenya,Berkembang,2019,66.5,115.1,Afrika
+Kenya,Berkembang,2020,66.4,102.9,Afrika
+Kenya,Berkembang,2021,67,110.5,Afrika
+Afrika Tengah,Berkembang,2010,47.8,36.9,Afrika
+Afrika Tengah,Berkembang,2011,48.3,39.3,Afrika
+Afrika Tengah,Berkembang,2012,48.8,43.3,Afrika
+Afrika Tengah,Berkembang,2013,47.5,48.7,Afrika
+Afrika Tengah,Berkembang,2014,47.5,51.1,Afrika
+Afrika Tengah,Berkembang,2015,49.7,50.7,Afrika
+Afrika Tengah,Berkembang,2016,50.3,50.0,Afrika
+Afrika Tengah,Berkembang,2017,50.4,47.5,Afrika
+Afrika Tengah,Berkembang,2018,51.5,47.9,Afrika
+Afrika Tengah,Berkembang,2019,52.4,48.4,Afrika
+Afrika Tengah,Berkembang,2020,52.4,45.6,Afrika
+Afrika Tengah,Berkembang,2021,53.1,49.7,Afrika
+Nigeria,Berkembang,2010,59.6,94.6,Afrika
+Nigeria,Berkembang,2011,60.2,103.5,Afrika
+Nigeria,Berkembang,2012,60.7,107.4,Afrika
+Nigeria,Berkembang,2013,61.2,109.2,Afrika
+Nigeria,Berkembang,2014,61.6,110.9,Afrika
+Nigeria,Berkembang,2015,62.1,126.5,Afrika
+Nigeria,Berkembang,2016,62.7,130.4,Afrika
+Nigeria,Berkembang,2017,63.3,139.5,Afrika
+Nigeria,Berkembang,2018,63.8,156.7,Afrika
+Nigeria,Berkembang,2019,64.3,159.8,Afrika
+Nigeria,Berkembang,2020,64.5,161.6,Afrika
+Nigeria,Berkembang,2021,65.1,174.8,Afrika
+Australia,Maju,2010,82.1,402.0,Asia Pasifik
+Australia,Maju,2011,82.3,406.8,Asia Pasifik
+Australia,Maju,2012,82.6,398.1,Asia Pasifik
+Australia,Maju,2013,82.7,395.0,Asia Pasifik
+Australia,Maju,2014,82.7,398.5,Asia Pasifik
+Australia,Maju,2015,82.7,407.2,Asia Pasifik
+Australia,Maju,2016,83,405.6,Asia Pasifik
+Australia,Maju,2017,83,403.7,Asia Pasifik
+Australia,Maju,2018,82.9,401.5,Asia Pasifik
+Australia,Maju,2019,82.9,406.6,Asia Pasifik
+Australia,Maju,2020,82.9,378.2,Asia Pasifik
+Australia,Maju,2021,83.2,369.4,Asia Pasifik
+Indonesia,Berkembang,2010,69.3,432.9,Asia Pasifik
+Indonesia,Berkembang,2011,69.6,470.6,Asia Pasifik
+Indonesia,Berkembang,2012,69.8,489.5,Asia Pasifik
+Indonesia,Berkembang,2013,70,460.6,Asia Pasifik
+Indonesia,Berkembang,2014,70.2,469.0,Asia Pasifik
+Indonesia,Berkembang,2015,70.4,489.0,Asia Pasifik
+Indonesia,Berkembang,2016,70.7,487.8,Asia Pasifik
+Indonesia,Berkembang,2017,70.9,514.6,Asia Pasifik
+Indonesia,Berkembang,2018,71.1,565.6,Asia Pasifik
+Indonesia,Berkembang,2019,71.4,613.2,Asia Pasifik
+Indonesia,Berkembang,2020,71.4,560.8,Asia Pasifik
+Indonesia,Berkembang,2021,71.8,572.5,Asia Pasifik
+China,Maju,2010,74.9,8121.7,Asia Pasifik
+China,Maju,2011,75.3,8793.5,Asia Pasifik
+China,Maju,2012,75.7,8978.7,Asia Pasifik
+China,Maju,2013,76.1,9219.1,Asia Pasifik
+China,Maju,2014,76.4,9256.7,Asia Pasifik
+China,Maju,2015,76.8,9226.2,Asia Pasifik
+China,Maju,2016,77,9234.4,Asia Pasifik
+China,Maju,2017,77.2,9444.9,Asia Pasifik
+China,Maju,2018,77.4,9676.0,Asia Pasifik
+China,Maju,2019,77.6,9868.5,Asia Pasifik
+China,Maju,2020,77.7,9974.3,Asia Pasifik
+China,Maju,2021,78,10523.0,Asia Pasifik
+Malaysia,Berkembang,2010,74.4,214.0,Asia Pasifik
+Malaysia,Berkembang,2011,74.6,209.8,Asia Pasifik
+Malaysia,Berkembang,2012,74.8,227.7,Asia Pasifik
+Malaysia,Berkembang,2013,75.3,234.1,Asia Pasifik
+Malaysia,Berkembang,2014,75.1,243.1,Asia Pasifik
+Malaysia,Berkembang,2015,75,247.1,Asia Pasifik
+Malaysia,Berkembang,2016,75,252.6,Asia Pasifik
+Malaysia,Berkembang,2017,75.1,241.2,Asia Pasifik
+Malaysia,Berkembang,2018,75.2,251.1,Asia Pasifik
+Malaysia,Berkembang,2019,75,256.9,Asia Pasifik
+Malaysia,Berkembang,2020,75.1,240.6,Asia Pasifik
+Malaysia,Berkembang,2021,75.3,238.6,Asia Pasifik
+Selandia Baru,Maju,2010,80.9,34.4,Asia Pasifik
+Selandia Baru,Maju,2011,80.9,34.4,Asia Pasifik
+Selandia Baru,Maju,2012,81.2,36.0,Asia Pasifik
+Selandia Baru,Maju,2013,81.5,35.6,Asia Pasifik
+Selandia Baru,Maju,2014,81.5,35.6,Asia Pasifik
+Selandia Baru,Maju,2015,81.7,36.2,Asia Pasifik
+Selandia Baru,Maju,2016,81.9,35.5,Asia Pasifik
+Selandia Baru,Maju,2017,82,37.6,Asia Pasifik
+Selandia Baru,Maju,2018,81.8,37.4,Asia Pasifik
+Selandia Baru,Maju,2019,81.8,38.5,Asia Pasifik
+Selandia Baru,Maju,2020,81.8,33.4,Asia Pasifik
+Selandia Baru,Maju,2021,82.1,32.7,Asia Pasifik
+India,Berkembang,2010,67.3,1648.3,Asia Pasifik
+India,Berkembang,2011,67.6,1728.4,Asia Pasifik
+India,Berkembang,2012,68,1861.4,Asia Pasifik
+India,Berkembang,2013,68.4,1934.0,Asia Pasifik
+India,Berkembang,2014,69,2090.7,Asia Pasifik
+India,Berkembang,2015,69.4,2146.5,Asia Pasifik
+India,Berkembang,2016,70,2241.5,Asia Pasifik
+India,Berkembang,2017,70.3,2320.2,Asia Pasifik
+India,Berkembang,2018,70.5,2442.6,Asia Pasifik
+India,Berkembang,2019,70.8,2465.8,Asia Pasifik
+India,Berkembang,2020,70.8,2281.2,Asia Pasifik
+India,Berkembang,2021,71.2,2552.8,Asia Pasifik
+Azerbaijan,Berkembang,2010,69,24.9,CIS
+Azerbaijan,Berkembang,2011,69.2,28.6,CIS
+Azerbaijan,Berkembang,2012,69.5,29.6,CIS
+Azerbaijan,Berkembang,2013,69.7,30.3,CIS
+Azerbaijan,Berkembang,2014,69.9,31.0,CIS
+Azerbaijan,Berkembang,2015,70.2,33.6,CIS
+Azerbaijan,Berkembang,2016,70.3,33.1,CIS
+Azerbaijan,Berkembang,2017,70.4,32.0,CIS
+Azerbaijan,Berkembang,2018,70.8,33.5,CIS
+Azerbaijan,Berkembang,2019,71,34.4,CIS
+Azerbaijan,Berkembang,2020,70.4,33.7,CIS
+Azerbaijan,Berkembang,2021,71.2,35.3,CIS
+Belarus,Berkembang,2010,70.6,62.4,CIS
+Belarus,Berkembang,2011,70.5,59.3,CIS
+Belarus,Berkembang,2012,72.3,60.8,CIS
+Belarus,Berkembang,2013,72.8,60.2,CIS
+Belarus,Berkembang,2014,73.1,59.2,CIS
+Belarus,Berkembang,2015,73.7,54.9,CIS
+Belarus,Berkembang,2016,73.8,55.0,CIS
+Belarus,Berkembang,2017,73.8,55.7,CIS
+Belarus,Berkembang,2018,74,60.6,CIS
+Belarus,Berkembang,2019,74,60.9,CIS
+Belarus,Berkembang,2020,73.5,56.1,CIS
+Belarus,Berkembang,2021,74.3,57.2,CIS
+Kazakhstan,Berkembang,2010,67.6,178.6,CIS
+Kazakhstan,Berkembang,2011,68.1,202.0,CIS
+Kazakhstan,Berkembang,2012,68.6,212.0,CIS
+Kazakhstan,Berkembang,2013,69.4,211.9,CIS
+Kazakhstan,Berkembang,2014,70.1,214.7,CIS
+Kazakhstan,Berkembang,2015,70.6,202.2,CIS
+Kazakhstan,Berkembang,2016,71.1,204.0,CIS
+Kazakhstan,Berkembang,2017,71.5,214.2,CIS
+Kazakhstan,Berkembang,2018,71.7,238.5,CIS
+Kazakhstan,Berkembang,2019,71.9,235.0,CIS
+Kazakhstan,Berkembang,2020,71.2,221.2,CIS
+Kazakhstan,Berkembang,2021,72.3,219.4,CIS
+Rusia,Berkembang,2010,68.8,1492.4,CIS
+Rusia,Berkembang,2011,70,1558.8,CIS
+Rusia,Berkembang,2012,70.5,1572.4,CIS
+Rusia,Berkembang,2013,70.9,1538.8,CIS
+Rusia,Berkembang,2014,71,1539.8,CIS
+Rusia,Berkembang,2015,71.5,1507.0,CIS
+Rusia,Berkembang,2016,72,1520.5,CIS
+Rusia,Berkembang,2017,72.9,1507.8,CIS
+Rusia,Berkembang,2018,73,1564.7,CIS
+Rusia,Berkembang,2019,73,1548.8,CIS
+Rusia,Berkembang,2020,71.2,1456.2,CIS
+Rusia,Berkembang,2021,73.3,1581.3,CIS
+Turkmenistan,Berkembang,2010,69.5,54.3,CIS
+Turkmenistan,Berkembang,2011,69.6,59.9,CIS
+Turkmenistan,Berkembang,2012,69.8,65.2,CIS
+Turkmenistan,Berkembang,2013,69.8,58.3,CIS
+Turkmenistan,Berkembang,2014,69.9,60.5,CIS
+Turkmenistan,Berkembang,2015,70,71.5,CIS
+Turkmenistan,Berkembang,2016,70.3,70.9,CIS
+Turkmenistan,Berkembang,2017,70.5,70.2,CIS
+Turkmenistan,Berkembang,2018,70.6,77.6,CIS
+Turkmenistan,Berkembang,2019,70.8,84.1,CIS
+Turkmenistan,Berkembang,2020,70.9,79.2,CIS
+Turkmenistan,Berkembang,2021,71.1,94.3,CIS
+Uzbekistan,Berkembang,2010,66.5,106.1,CIS
+Uzbekistan,Berkembang,2011,66.6,113.4,CIS
+Uzbekistan,Berkembang,2012,66.7,109.8,CIS
+Uzbekistan,Berkembang,2013,67,111.1,CIS
+Uzbekistan,Berkembang,2014,67.2,114.4,CIS
+Uzbekistan,Berkembang,2015,67.3,108.8,CIS
+Uzbekistan,Berkembang,2016,67.6,104.1,CIS
+Uzbekistan,Berkembang,2017,67.8,106.9,CIS
+Uzbekistan,Berkembang,2018,68.1,109.7,CIS
+Uzbekistan,Berkembang,2019,68.4,109.5,CIS
+Uzbekistan,Berkembang,2020,68.4,108.3,CIS
+Uzbekistan,Berkembang,2021,68.7,112.3,CIS
