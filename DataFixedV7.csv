@@ -1,0 +1,433 @@
+Negara,Status,Tahun,CO2
+Austria,Maju,2010,67.8
+Austria,Maju,2011,64.7
+Austria,Maju,2012,62.2
+Austria,Maju,2013,62.9
+Austria,Maju,2014,58.6
+Austria,Maju,2015,60.7
+Austria,Maju,2016,61.6
+Austria,Maju,2017,64.4
+Austria,Maju,2018,62.1
+Austria,Maju,2019,63.6
+Austria,Maju,2020,56
+Austria,Maju,2021,58.4
+Belgia,Maju,2010,133.5
+Belgia,Maju,2011,120.6
+Belgia,Maju,2012,116.3
+Belgia,Maju,2013,117.3
+Belgia,Maju,2014,109
+Belgia,Maju,2015,115.2
+Belgia,Maju,2016,116.9
+Belgia,Maju,2017,118.8
+Belgia,Maju,2018,125.4
+Belgia,Maju,2019,121.7
+Belgia,Maju,2020,105.5
+Belgia,Maju,2021,114.7
+Rumania,Berkembang,2010,78.2
+Rumania,Berkembang,2011,85.1
+Rumania,Berkembang,2012,81.7
+Rumania,Berkembang,2013,69.8
+Rumania,Berkembang,2014,71.1
+Rumania,Berkembang,2015,71.9
+Rumania,Berkembang,2016,69.5
+Rumania,Berkembang,2017,72.9
+Rumania,Berkembang,2018,73.4
+Rumania,Berkembang,2019,71.7
+Rumania,Berkembang,2020,64.6
+Rumania,Berkembang,2021,70.3
+Makedonia,Berkembang,2010,8.5
+Makedonia,Berkembang,2011,9.3
+Makedonia,Berkembang,2012,8.9
+Makedonia,Berkembang,2013,7.9
+Makedonia,Berkembang,2014,7.5
+Makedonia,Berkembang,2015,7.2
+Makedonia,Berkembang,2016,7.1
+Makedonia,Berkembang,2017,7.5
+Makedonia,Berkembang,2018,7.1
+Makedonia,Berkembang,2019,8.1
+Makedonia,Berkembang,2020,6.6
+Makedonia,Berkembang,2021,6.9
+Jerman,Maju,2010,783.2
+Jerman,Maju,2011,763.7
+Jerman,Maju,2012,773
+Jerman,Maju,2013,797.6
+Jerman,Maju,2014,751.1
+Jerman,Maju,2015,755.6
+Jerman,Maju,2016,770.5
+Jerman,Maju,2017,760.9
+Jerman,Maju,2018,733.1
+Jerman,Maju,2019,680.1
+Jerman,Maju,2020,600.8
+Jerman,Maju,2021,628.9
+Ukraina,Berkembang,2010,288.7
+Ukraina,Berkembang,2011,303.2
+Ukraina,Berkembang,2012,299.1
+Ukraina,Berkembang,2013,286.5
+Ukraina,Berkembang,2014,246.8
+Ukraina,Berkembang,2015,195.1
+Ukraina,Berkembang,2016,215.6
+Ukraina,Berkembang,2017,187.9
+Ukraina,Berkembang,2018,198.7
+Ukraina,Berkembang,2019,185.5
+Ukraina,Berkembang,2020,172.9
+Ukraina,Berkembang,2021,167.9
+Argentina,Berkembang,2010,167.1
+Argentina,Berkembang,2011,173.1
+Argentina,Berkembang,2012,181.9
+Argentina,Berkembang,2013,187.8
+Argentina,Berkembang,2014,187.8
+Argentina,Berkembang,2015,191.2
+Argentina,Berkembang,2016,190.1
+Argentina,Berkembang,2017,188.5
+Argentina,Berkembang,2018,185.9
+Argentina,Berkembang,2019,175.5
+Argentina,Berkembang,2020,164.8
+Argentina,Berkembang,2021,181.7
+Brazil,Berkembang,2010,399.4
+Brazil,Berkembang,2011,424.2
+Brazil,Berkembang,2012,444.5
+Brazil,Berkembang,2013,483
+Brazil,Berkembang,2014,505.2
+Brazil,Berkembang,2015,476.6
+Brazil,Berkembang,2016,440.8
+Brazil,Berkembang,2017,446.4
+Brazil,Berkembang,2018,427.6
+Brazil,Berkembang,2019,425.1
+Brazil,Berkembang,2020,390.5
+Brazil,Berkembang,2021,436.6
+Chile,Berkembang,2010,76.1
+Chile,Berkembang,2011,87
+Chile,Berkembang,2012,89.4
+Chile,Berkembang,2013,91.1
+Chile,Berkembang,2014,88.4
+Chile,Berkembang,2015,88.9
+Chile,Berkembang,2016,94.1
+Chile,Berkembang,2017,92.4
+Chile,Berkembang,2018,93
+Chile,Berkembang,2019,94.6
+Chile,Berkembang,2020,84.4
+Chile,Berkembang,2021,87
+Meksiko,Berkembang,2010,442.6
+Meksiko,Berkembang,2011,465.8
+Meksiko,Berkembang,2012,474
+Meksiko,Berkembang,2013,472.8
+Meksiko,Berkembang,2014,459.6
+Meksiko,Berkembang,2015,463.1
+Meksiko,Berkembang,2016,468.8
+Meksiko,Berkembang,2017,476.9
+Meksiko,Berkembang,2018,468.2
+Meksiko,Berkembang,2019,449.3
+Meksiko,Berkembang,2020,357.7
+Meksiko,Berkembang,2021,373.8
+Kanada,Maju,2010,546.3
+Kanada,Maju,2011,550.2
+Kanada,Maju,2012,546.5
+Kanada,Maju,2013,560.7
+Kanada,Maju,2014,566.4
+Kanada,Maju,2015,566.2
+Kanada,Maju,2016,547.7
+Kanada,Maju,2017,563.7
+Kanada,Maju,2018,573.5
+Kanada,Maju,2019,571.3
+Kanada,Maju,2020,517.3
+Kanada,Maju,2021,527.4
+Venezuela,Berkembang,2010,167.4
+Venezuela,Berkembang,2011,167.3
+Venezuela,Berkembang,2012,177.9
+Venezuela,Berkembang,2013,183.4
+Venezuela,Berkembang,2014,173.3
+Venezuela,Berkembang,2015,172.2
+Venezuela,Berkembang,2016,149.3
+Venezuela,Berkembang,2017,146.3
+Venezuela,Berkembang,2018,121.1
+Venezuela,Berkembang,2019,100.1
+Venezuela,Berkembang,2020,82.8
+Venezuela,Berkembang,2021,89.2
+Iran,Berkembang,2010,504.8
+Iran,Berkembang,2011,517
+Iran,Berkembang,2012,522.7
+Iran,Berkembang,2013,545.2
+Iran,Berkembang,2014,557.2
+Iran,Berkembang,2015,551
+Iran,Berkembang,2016,569.8
+Iran,Berkembang,2017,581.1
+Iran,Berkembang,2018,606.1
+Iran,Berkembang,2019,628.1
+Iran,Berkembang,2020,645.4
+Iran,Berkembang,2021,660.5
+Iraq,Berkembang,2010,92.4
+Iraq,Berkembang,2011,94.2
+Iraq,Berkembang,2012,103.5
+Iraq,Berkembang,2013,115.2
+Iraq,Berkembang,2014,110.8
+Iraq,Berkembang,2015,107
+Iraq,Berkembang,2016,122
+Iraq,Berkembang,2017,129
+Iraq,Berkembang,2018,156.2
+Iraq,Berkembang,2019,145.4
+Iraq,Berkembang,2020,130
+Iraq,Berkembang,2021,141
+Kuwait,Berkembang,2010,87.4
+Kuwait,Berkembang,2011,88.9
+Kuwait,Berkembang,2012,92.2
+Kuwait,Berkembang,2013,94.6
+Kuwait,Berkembang,2014,96.3
+Kuwait,Berkembang,2015,99.6
+Kuwait,Berkembang,2016,97.8
+Kuwait,Berkembang,2017,99.8
+Kuwait,Berkembang,2018,101.9
+Kuwait,Berkembang,2019,103.7
+Kuwait,Berkembang,2020,95.9
+Kuwait,Berkembang,2021,103.1
+Oman,Berkembang,2010,49
+Oman,Berkembang,2011,52.2
+Oman,Berkembang,2012,57.6
+Oman,Berkembang,2013,65.7
+Oman,Berkembang,2014,65.2
+Oman,Berkembang,2015,68.7
+Oman,Berkembang,2016,69.1
+Oman,Berkembang,2017,74.3
+Oman,Berkembang,2018,76.2
+Oman,Berkembang,2019,76.1
+Oman,Berkembang,2020,73.1
+Oman,Berkembang,2021,82.1
+Qatar,Berkembang,2010,62.2
+Qatar,Berkembang,2011,74.2
+Qatar,Berkembang,2012,89.2
+Qatar,Berkembang,2013,99.6
+Qatar,Berkembang,2014,109.6
+Qatar,Berkembang,2015,123.3
+Qatar,Berkembang,2016,123.1
+Qatar,Berkembang,2017,115.7
+Qatar,Berkembang,2018,119
+Qatar,Berkembang,2019,124.8
+Qatar,Berkembang,2020,107.6
+Qatar,Berkembang,2021,115.3
+Arab Saudi,Berkembang,2010,472
+Arab Saudi,Berkembang,2011,499.8
+Arab Saudi,Berkembang,2012,525
+Arab Saudi,Berkembang,2013,534.1
+Arab Saudi,Berkembang,2014,573.3
+Arab Saudi,Berkembang,2015,591.2
+Arab Saudi,Berkembang,2016,618.5
+Arab Saudi,Berkembang,2017,608.1
+Arab Saudi,Berkembang,2018,604.5
+Arab Saudi,Berkembang,2019,582.2
+Arab Saudi,Berkembang,2020,569.2
+Arab Saudi,Berkembang,2021,575.3
+Mesir,Berkembang,2010,184.2
+Mesir,Berkembang,2011,192.5
+Mesir,Berkembang,2012,199.6
+Mesir,Berkembang,2013,201.3
+Mesir,Berkembang,2014,200
+Mesir,Berkembang,2015,203
+Mesir,Berkembang,2016,215.4
+Mesir,Berkembang,2017,220.3
+Mesir,Berkembang,2018,217.7
+Mesir,Berkembang,2019,223.8
+Mesir,Berkembang,2020,203.3
+Mesir,Berkembang,2021,219.6
+Maroko,Berkembang,2010,49.1
+Maroko,Berkembang,2011,52.9
+Maroko,Berkembang,2012,53.9
+Maroko,Berkembang,2013,54.3
+Maroko,Berkembang,2014,56.5
+Maroko,Berkembang,2015,56.7
+Maroko,Berkembang,2016,57.1
+Maroko,Berkembang,2017,60.1
+Maroko,Berkembang,2018,61.7
+Maroko,Berkembang,2019,67.8
+Maroko,Berkembang,2020,62.1
+Maroko,Berkembang,2021,68.9
+Afrika Selatan,Berkembang,2010,474.9
+Afrika Selatan,Berkembang,2011,466.3
+Afrika Selatan,Berkembang,2012,462.1
+Afrika Selatan,Berkembang,2013,462.8
+Afrika Selatan,Berkembang,2014,467.2
+Afrika Selatan,Berkembang,2015,455.1
+Afrika Selatan,Berkembang,2016,473.9
+Afrika Selatan,Berkembang,2017,469.9
+Afrika Selatan,Berkembang,2018,451.7
+Afrika Selatan,Berkembang,2019,473.7
+Afrika Selatan,Berkembang,2020,437.2
+Afrika Selatan,Berkembang,2021,438.9
+Kenya,Berkembang,2010,76.3
+Kenya,Berkembang,2011,80.2
+Kenya,Berkembang,2012,81
+Kenya,Berkembang,2013,89.9
+Kenya,Berkembang,2014,100.7
+Kenya,Berkembang,2015,104.7
+Kenya,Berkembang,2016,103.3
+Kenya,Berkembang,2017,111.9
+Kenya,Berkembang,2018,117.5
+Kenya,Berkembang,2019,115.1
+Kenya,Berkembang,2020,102.9
+Kenya,Berkembang,2021,110.5
+Afrika Tengah,Berkembang,2010,36.9
+Afrika Tengah,Berkembang,2011,39.3
+Afrika Tengah,Berkembang,2012,43.3
+Afrika Tengah,Berkembang,2013,48.7
+Afrika Tengah,Berkembang,2014,51.1
+Afrika Tengah,Berkembang,2015,50.7
+Afrika Tengah,Berkembang,2016,50
+Afrika Tengah,Berkembang,2017,47.5
+Afrika Tengah,Berkembang,2018,47.9
+Afrika Tengah,Berkembang,2019,48.4
+Afrika Tengah,Berkembang,2020,45.6
+Afrika Tengah,Berkembang,2021,49.7
+Nigeria,Berkembang,2010,94.6
+Nigeria,Berkembang,2011,103.5
+Nigeria,Berkembang,2012,107.4
+Nigeria,Berkembang,2013,109.2
+Nigeria,Berkembang,2014,110.9
+Nigeria,Berkembang,2015,126.5
+Nigeria,Berkembang,2016,130.4
+Nigeria,Berkembang,2017,139.5
+Nigeria,Berkembang,2018,156.7
+Nigeria,Berkembang,2019,159.8
+Nigeria,Berkembang,2020,161.6
+Nigeria,Berkembang,2021,174.8
+Australia,Maju,2010,402
+Australia,Maju,2011,406.8
+Australia,Maju,2012,398.1
+Australia,Maju,2013,395
+Australia,Maju,2014,398.5
+Australia,Maju,2015,407.2
+Australia,Maju,2016,405.6
+Australia,Maju,2017,403.7
+Australia,Maju,2018,401.5
+Australia,Maju,2019,406.6
+Australia,Maju,2020,378.2
+Australia,Maju,2021,369.4
+Indonesia,Berkembang,2010,432.9
+Indonesia,Berkembang,2011,470.6
+Indonesia,Berkembang,2012,489.5
+Indonesia,Berkembang,2013,460.6
+Indonesia,Berkembang,2014,469
+Indonesia,Berkembang,2015,489
+Indonesia,Berkembang,2016,487.8
+Indonesia,Berkembang,2017,514.6
+Indonesia,Berkembang,2018,565.6
+Indonesia,Berkembang,2019,613.2
+Indonesia,Berkembang,2020,560.8
+Indonesia,Berkembang,2021,572.5
+Korea Selatan,Maju,2010,586.9
+Korea Selatan,Maju,2011,613.7
+Korea Selatan,Maju,2012,612.6
+Korea Selatan,Maju,2013,620
+Korea Selatan,Maju,2014,615
+Korea Selatan,Maju,2015,622.8
+Korea Selatan,Maju,2016,633.2
+Korea Selatan,Maju,2017,641.8
+Korea Selatan,Maju,2018,659.1
+Korea Selatan,Maju,2019,635.3
+Korea Selatan,Maju,2020,588.8
+Korea Selatan,Maju,2021,603.8
+Malaysia,Berkembang,2010,214
+Malaysia,Berkembang,2011,209.8
+Malaysia,Berkembang,2012,227.7
+Malaysia,Berkembang,2013,234.1
+Malaysia,Berkembang,2014,243.1
+Malaysia,Berkembang,2015,247.1
+Malaysia,Berkembang,2016,252.6
+Malaysia,Berkembang,2017,241.2
+Malaysia,Berkembang,2018,251.1
+Malaysia,Berkembang,2019,256.9
+Malaysia,Berkembang,2020,240.6
+Malaysia,Berkembang,2021,238.6
+Selandia Baru,Maju,2010,34.4
+Selandia Baru,Maju,2011,34.4
+Selandia Baru,Maju,2012,36
+Selandia Baru,Maju,2013,35.6
+Selandia Baru,Maju,2014,35.6
+Selandia Baru,Maju,2015,36.2
+Selandia Baru,Maju,2016,35.5
+Selandia Baru,Maju,2017,37.6
+Selandia Baru,Maju,2018,37.4
+Selandia Baru,Maju,2019,38.5
+Selandia Baru,Maju,2020,33.4
+Selandia Baru,Maju,2021,32.7
+Pakistan,Berkembang,2010,146.1
+Pakistan,Berkembang,2011,145.2
+Pakistan,Berkembang,2012,144.6
+Pakistan,Berkembang,2013,145.3
+Pakistan,Berkembang,2014,151.7
+Pakistan,Berkembang,2015,160.3
+Pakistan,Berkembang,2016,176.5
+Pakistan,Berkembang,2017,188.7
+Pakistan,Berkembang,2018,196.9
+Pakistan,Berkembang,2019,207.1
+Pakistan,Berkembang,2020,206.3
+Pakistan,Berkembang,2021,226.4
+Azerbaijan,Berkembang,2010,24.9
+Azerbaijan,Berkembang,2011,28.6
+Azerbaijan,Berkembang,2012,29.6
+Azerbaijan,Berkembang,2013,30.3
+Azerbaijan,Berkembang,2014,31
+Azerbaijan,Berkembang,2015,33.6
+Azerbaijan,Berkembang,2016,33.1
+Azerbaijan,Berkembang,2017,32
+Azerbaijan,Berkembang,2018,33.5
+Azerbaijan,Berkembang,2019,34.4
+Azerbaijan,Berkembang,2020,33.7
+Azerbaijan,Berkembang,2021,35.3
+Belarus,Berkembang,2010,62.4
+Belarus,Berkembang,2011,59.3
+Belarus,Berkembang,2012,60.8
+Belarus,Berkembang,2013,60.2
+Belarus,Berkembang,2014,59.2
+Belarus,Berkembang,2015,54.9
+Belarus,Berkembang,2016,55
+Belarus,Berkembang,2017,55.7
+Belarus,Berkembang,2018,60.6
+Belarus,Berkembang,2019,60.9
+Belarus,Berkembang,2020,56.1
+Belarus,Berkembang,2021,57.2
+Kazakhstan,Berkembang,2010,178.6
+Kazakhstan,Berkembang,2011,202
+Kazakhstan,Berkembang,2012,212
+Kazakhstan,Berkembang,2013,211.9
+Kazakhstan,Berkembang,2014,214.7
+Kazakhstan,Berkembang,2015,202.2
+Kazakhstan,Berkembang,2016,204
+Kazakhstan,Berkembang,2017,214.2
+Kazakhstan,Berkembang,2018,238.5
+Kazakhstan,Berkembang,2019,235
+Kazakhstan,Berkembang,2020,221.2
+Kazakhstan,Berkembang,2021,219.4
+Rusia,Berkembang,2010,1492.4
+Rusia,Berkembang,2011,1558.8
+Rusia,Berkembang,2012,1572.4
+Rusia,Berkembang,2013,1538.8
+Rusia,Berkembang,2014,1539.8
+Rusia,Berkembang,2015,1507
+Rusia,Berkembang,2016,1520.5
+Rusia,Berkembang,2017,1507.8
+Rusia,Berkembang,2018,1564.7
+Rusia,Berkembang,2019,1548.8
+Rusia,Berkembang,2020,1456.2
+Rusia,Berkembang,2021,1581.3
+Turkmenistan,Berkembang,2010,54.3
+Turkmenistan,Berkembang,2011,59.9
+Turkmenistan,Berkembang,2012,65.2
+Turkmenistan,Berkembang,2013,58.3
+Turkmenistan,Berkembang,2014,60.5
+Turkmenistan,Berkembang,2015,71.5
+Turkmenistan,Berkembang,2016,70.9
+Turkmenistan,Berkembang,2017,70.2
+Turkmenistan,Berkembang,2018,77.6
+Turkmenistan,Berkembang,2019,84.1
+Turkmenistan,Berkembang,2020,79.2
+Turkmenistan,Berkembang,2021,94.3
+Uzbekistan,Berkembang,2010,106.1
+Uzbekistan,Berkembang,2011,113.4
+Uzbekistan,Berkembang,2012,109.8
+Uzbekistan,Berkembang,2013,111.1
+Uzbekistan,Berkembang,2014,114.4
+Uzbekistan,Berkembang,2015,108.8
+Uzbekistan,Berkembang,2016,104.1
+Uzbekistan,Berkembang,2017,106.9
+Uzbekistan,Berkembang,2018,109.7
+Uzbekistan,Berkembang,2019,109.5
+Uzbekistan,Berkembang,2020,108.3
+Uzbekistan,Berkembang,2021,112.3
