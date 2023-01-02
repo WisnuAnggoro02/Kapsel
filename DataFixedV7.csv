@@ -1,0 +1,433 @@
+Negara,Region,Tahun,CO2
+Austria,Eropa,2010,67.8
+Austria,Eropa,2011,64.7
+Austria,Eropa,2012,62.2
+Austria,Eropa,2013,62.9
+Austria,Eropa,2014,58.6
+Austria,Eropa,2015,60.7
+Austria,Eropa,2016,61.6
+Austria,Eropa,2017,64.4
+Austria,Eropa,2018,62.1
+Austria,Eropa,2019,63.6
+Austria,Eropa,2020,56
+Austria,Eropa,2021,58.4
+Belgia,Eropa,2010,133.5
+Belgia,Eropa,2011,120.6
+Belgia,Eropa,2012,116.3
+Belgia,Eropa,2013,117.3
+Belgia,Eropa,2014,109
+Belgia,Eropa,2015,115.2
+Belgia,Eropa,2016,116.9
+Belgia,Eropa,2017,118.8
+Belgia,Eropa,2018,125.4
+Belgia,Eropa,2019,121.7
+Belgia,Eropa,2020,105.5
+Belgia,Eropa,2021,114.7
+Rumania,Eropa,2010,78.2
+Rumania,Eropa,2011,85.1
+Rumania,Eropa,2012,81.7
+Rumania,Eropa,2013,69.8
+Rumania,Eropa,2014,71.1
+Rumania,Eropa,2015,71.9
+Rumania,Eropa,2016,69.5
+Rumania,Eropa,2017,72.9
+Rumania,Eropa,2018,73.4
+Rumania,Eropa,2019,71.7
+Rumania,Eropa,2020,64.6
+Rumania,Eropa,2021,70.3
+Makedonia,Eropa,2010,8.5
+Makedonia,Eropa,2011,9.3
+Makedonia,Eropa,2012,8.9
+Makedonia,Eropa,2013,7.9
+Makedonia,Eropa,2014,7.5
+Makedonia,Eropa,2015,7.2
+Makedonia,Eropa,2016,7.1
+Makedonia,Eropa,2017,7.5
+Makedonia,Eropa,2018,7.1
+Makedonia,Eropa,2019,8.1
+Makedonia,Eropa,2020,6.6
+Makedonia,Eropa,2021,6.9
+Jerman,Eropa,2010,783.2
+Jerman,Eropa,2011,763.7
+Jerman,Eropa,2012,773
+Jerman,Eropa,2013,797.6
+Jerman,Eropa,2014,751.1
+Jerman,Eropa,2015,755.6
+Jerman,Eropa,2016,770.5
+Jerman,Eropa,2017,760.9
+Jerman,Eropa,2018,733.1
+Jerman,Eropa,2019,680.1
+Jerman,Eropa,2020,600.8
+Jerman,Eropa,2021,628.9
+Ukraina,Eropa,2010,288.7
+Ukraina,Eropa,2011,303.2
+Ukraina,Eropa,2012,299.1
+Ukraina,Eropa,2013,286.5
+Ukraina,Eropa,2014,246.8
+Ukraina,Eropa,2015,195.1
+Ukraina,Eropa,2016,215.6
+Ukraina,Eropa,2017,187.9
+Ukraina,Eropa,2018,198.7
+Ukraina,Eropa,2019,185.5
+Ukraina,Eropa,2020,172.9
+Ukraina,Eropa,2021,167.9
+Argentina,Amerika,2010,167.1
+Argentina,Amerika,2011,173.1
+Argentina,Amerika,2012,181.9
+Argentina,Amerika,2013,187.8
+Argentina,Amerika,2014,187.8
+Argentina,Amerika,2015,191.2
+Argentina,Amerika,2016,190.1
+Argentina,Amerika,2017,188.5
+Argentina,Amerika,2018,185.9
+Argentina,Amerika,2019,175.5
+Argentina,Amerika,2020,164.8
+Argentina,Amerika,2021,181.7
+Brazil,Amerika,2010,399.4
+Brazil,Amerika,2011,424.2
+Brazil,Amerika,2012,444.5
+Brazil,Amerika,2013,483
+Brazil,Amerika,2014,505.2
+Brazil,Amerika,2015,476.6
+Brazil,Amerika,2016,440.8
+Brazil,Amerika,2017,446.4
+Brazil,Amerika,2018,427.6
+Brazil,Amerika,2019,425.1
+Brazil,Amerika,2020,390.5
+Brazil,Amerika,2021,436.6
+Chile,Amerika,2010,76.1
+Chile,Amerika,2011,87
+Chile,Amerika,2012,89.4
+Chile,Amerika,2013,91.1
+Chile,Amerika,2014,88.4
+Chile,Amerika,2015,88.9
+Chile,Amerika,2016,94.1
+Chile,Amerika,2017,92.4
+Chile,Amerika,2018,93
+Chile,Amerika,2019,94.6
+Chile,Amerika,2020,84.4
+Chile,Amerika,2021,87
+Meksiko,Amerika,2010,442.6
+Meksiko,Amerika,2011,465.8
+Meksiko,Amerika,2012,474
+Meksiko,Amerika,2013,472.8
+Meksiko,Amerika,2014,459.6
+Meksiko,Amerika,2015,463.1
+Meksiko,Amerika,2016,468.8
+Meksiko,Amerika,2017,476.9
+Meksiko,Amerika,2018,468.2
+Meksiko,Amerika,2019,449.3
+Meksiko,Amerika,2020,357.7
+Meksiko,Amerika,2021,373.8
+Kanada,Amerika,2010,546.3
+Kanada,Amerika,2011,550.2
+Kanada,Amerika,2012,546.5
+Kanada,Amerika,2013,560.7
+Kanada,Amerika,2014,566.4
+Kanada,Amerika,2015,566.2
+Kanada,Amerika,2016,547.7
+Kanada,Amerika,2017,563.7
+Kanada,Amerika,2018,573.5
+Kanada,Amerika,2019,571.3
+Kanada,Amerika,2020,517.3
+Kanada,Amerika,2021,527.4
+Venezuela,Amerika,2010,167.4
+Venezuela,Amerika,2011,167.3
+Venezuela,Amerika,2012,177.9
+Venezuela,Amerika,2013,183.4
+Venezuela,Amerika,2014,173.3
+Venezuela,Amerika,2015,172.2
+Venezuela,Amerika,2016,149.3
+Venezuela,Amerika,2017,146.3
+Venezuela,Amerika,2018,121.1
+Venezuela,Amerika,2019,100.1
+Venezuela,Amerika,2020,82.8
+Venezuela,Amerika,2021,89.2
+Iran,Timur Tengah,2010,504.8
+Iran,Timur Tengah,2011,517
+Iran,Timur Tengah,2012,522.7
+Iran,Timur Tengah,2013,545.2
+Iran,Timur Tengah,2014,557.2
+Iran,Timur Tengah,2015,551
+Iran,Timur Tengah,2016,569.8
+Iran,Timur Tengah,2017,581.1
+Iran,Timur Tengah,2018,606.1
+Iran,Timur Tengah,2019,628.1
+Iran,Timur Tengah,2020,645.4
+Iran,Timur Tengah,2021,660.5
+Iraq,Timur Tengah,2010,92.4
+Iraq,Timur Tengah,2011,94.2
+Iraq,Timur Tengah,2012,103.5
+Iraq,Timur Tengah,2013,115.2
+Iraq,Timur Tengah,2014,110.8
+Iraq,Timur Tengah,2015,107
+Iraq,Timur Tengah,2016,122
+Iraq,Timur Tengah,2017,129
+Iraq,Timur Tengah,2018,156.2
+Iraq,Timur Tengah,2019,145.4
+Iraq,Timur Tengah,2020,130
+Iraq,Timur Tengah,2021,141
+Kuwait,Timur Tengah,2010,87.4
+Kuwait,Timur Tengah,2011,88.9
+Kuwait,Timur Tengah,2012,92.2
+Kuwait,Timur Tengah,2013,94.6
+Kuwait,Timur Tengah,2014,96.3
+Kuwait,Timur Tengah,2015,99.6
+Kuwait,Timur Tengah,2016,97.8
+Kuwait,Timur Tengah,2017,99.8
+Kuwait,Timur Tengah,2018,101.9
+Kuwait,Timur Tengah,2019,103.7
+Kuwait,Timur Tengah,2020,95.9
+Kuwait,Timur Tengah,2021,103.1
+Oman,Timur Tengah,2010,49
+Oman,Timur Tengah,2011,52.2
+Oman,Timur Tengah,2012,57.6
+Oman,Timur Tengah,2013,65.7
+Oman,Timur Tengah,2014,65.2
+Oman,Timur Tengah,2015,68.7
+Oman,Timur Tengah,2016,69.1
+Oman,Timur Tengah,2017,74.3
+Oman,Timur Tengah,2018,76.2
+Oman,Timur Tengah,2019,76.1
+Oman,Timur Tengah,2020,73.1
+Oman,Timur Tengah,2021,82.1
+Qatar,Timur Tengah,2010,62.2
+Qatar,Timur Tengah,2011,74.2
+Qatar,Timur Tengah,2012,89.2
+Qatar,Timur Tengah,2013,99.6
+Qatar,Timur Tengah,2014,109.6
+Qatar,Timur Tengah,2015,123.3
+Qatar,Timur Tengah,2016,123.1
+Qatar,Timur Tengah,2017,115.7
+Qatar,Timur Tengah,2018,119
+Qatar,Timur Tengah,2019,124.8
+Qatar,Timur Tengah,2020,107.6
+Qatar,Timur Tengah,2021,115.3
+Arab Saudi,Timur Tengah,2010,472
+Arab Saudi,Timur Tengah,2011,499.8
+Arab Saudi,Timur Tengah,2012,525
+Arab Saudi,Timur Tengah,2013,534.1
+Arab Saudi,Timur Tengah,2014,573.3
+Arab Saudi,Timur Tengah,2015,591.2
+Arab Saudi,Timur Tengah,2016,618.5
+Arab Saudi,Timur Tengah,2017,608.1
+Arab Saudi,Timur Tengah,2018,604.5
+Arab Saudi,Timur Tengah,2019,582.2
+Arab Saudi,Timur Tengah,2020,569.2
+Arab Saudi,Timur Tengah,2021,575.3
+Mesir,Afrika,2010,184.2
+Mesir,Afrika,2011,192.5
+Mesir,Afrika,2012,199.6
+Mesir,Afrika,2013,201.3
+Mesir,Afrika,2014,200
+Mesir,Afrika,2015,203
+Mesir,Afrika,2016,215.4
+Mesir,Afrika,2017,220.3
+Mesir,Afrika,2018,217.7
+Mesir,Afrika,2019,223.8
+Mesir,Afrika,2020,203.3
+Mesir,Afrika,2021,219.6
+Maroko,Afrika,2010,49.1
+Maroko,Afrika,2011,52.9
+Maroko,Afrika,2012,53.9
+Maroko,Afrika,2013,54.3
+Maroko,Afrika,2014,56.5
+Maroko,Afrika,2015,56.7
+Maroko,Afrika,2016,57.1
+Maroko,Afrika,2017,60.1
+Maroko,Afrika,2018,61.7
+Maroko,Afrika,2019,67.8
+Maroko,Afrika,2020,62.1
+Maroko,Afrika,2021,68.9
+Afrika Selatan,Afrika,2010,474.9
+Afrika Selatan,Afrika,2011,466.3
+Afrika Selatan,Afrika,2012,462.1
+Afrika Selatan,Afrika,2013,462.8
+Afrika Selatan,Afrika,2014,467.2
+Afrika Selatan,Afrika,2015,455.1
+Afrika Selatan,Afrika,2016,473.9
+Afrika Selatan,Afrika,2017,469.9
+Afrika Selatan,Afrika,2018,451.7
+Afrika Selatan,Afrika,2019,473.7
+Afrika Selatan,Afrika,2020,437.2
+Afrika Selatan,Afrika,2021,438.9
+Kenya,Afrika,2010,76.3
+Kenya,Afrika,2011,80.2
+Kenya,Afrika,2012,81
+Kenya,Afrika,2013,89.9
+Kenya,Afrika,2014,100.7
+Kenya,Afrika,2015,104.7
+Kenya,Afrika,2016,103.3
+Kenya,Afrika,2017,111.9
+Kenya,Afrika,2018,117.5
+Kenya,Afrika,2019,115.1
+Kenya,Afrika,2020,102.9
+Kenya,Afrika,2021,110.5
+Afrika Tengah,Afrika,2010,36.9
+Afrika Tengah,Afrika,2011,39.3
+Afrika Tengah,Afrika,2012,43.3
+Afrika Tengah,Afrika,2013,48.7
+Afrika Tengah,Afrika,2014,51.1
+Afrika Tengah,Afrika,2015,50.7
+Afrika Tengah,Afrika,2016,50
+Afrika Tengah,Afrika,2017,47.5
+Afrika Tengah,Afrika,2018,47.9
+Afrika Tengah,Afrika,2019,48.4
+Afrika Tengah,Afrika,2020,45.6
+Afrika Tengah,Afrika,2021,49.7
+Nigeria,Afrika,2010,94.6
+Nigeria,Afrika,2011,103.5
+Nigeria,Afrika,2012,107.4
+Nigeria,Afrika,2013,109.2
+Nigeria,Afrika,2014,110.9
+Nigeria,Afrika,2015,126.5
+Nigeria,Afrika,2016,130.4
+Nigeria,Afrika,2017,139.5
+Nigeria,Afrika,2018,156.7
+Nigeria,Afrika,2019,159.8
+Nigeria,Afrika,2020,161.6
+Nigeria,Afrika,2021,174.8
+Australia,Asia Pasifik,2010,402
+Australia,Asia Pasifik,2011,406.8
+Australia,Asia Pasifik,2012,398.1
+Australia,Asia Pasifik,2013,395
+Australia,Asia Pasifik,2014,398.5
+Australia,Asia Pasifik,2015,407.2
+Australia,Asia Pasifik,2016,405.6
+Australia,Asia Pasifik,2017,403.7
+Australia,Asia Pasifik,2018,401.5
+Australia,Asia Pasifik,2019,406.6
+Australia,Asia Pasifik,2020,378.2
+Australia,Asia Pasifik,2021,369.4
+Indonesia,Asia Pasifik,2010,432.9
+Indonesia,Asia Pasifik,2011,470.6
+Indonesia,Asia Pasifik,2012,489.5
+Indonesia,Asia Pasifik,2013,460.6
+Indonesia,Asia Pasifik,2014,469
+Indonesia,Asia Pasifik,2015,489
+Indonesia,Asia Pasifik,2016,487.8
+Indonesia,Asia Pasifik,2017,514.6
+Indonesia,Asia Pasifik,2018,565.6
+Indonesia,Asia Pasifik,2019,613.2
+Indonesia,Asia Pasifik,2020,560.8
+Indonesia,Asia Pasifik,2021,572.5
+Korea Selatan,Asia Pasifik,2010,586.9
+Korea Selatan,Asia Pasifik,2011,613.7
+Korea Selatan,Asia Pasifik,2012,612.6
+Korea Selatan,Asia Pasifik,2013,620
+Korea Selatan,Asia Pasifik,2014,615
+Korea Selatan,Asia Pasifik,2015,622.8
+Korea Selatan,Asia Pasifik,2016,633.2
+Korea Selatan,Asia Pasifik,2017,641.8
+Korea Selatan,Asia Pasifik,2018,659.1
+Korea Selatan,Asia Pasifik,2019,635.3
+Korea Selatan,Asia Pasifik,2020,588.8
+Korea Selatan,Asia Pasifik,2021,603.8
+Malaysia,Asia Pasifik,2010,214
+Malaysia,Asia Pasifik,2011,209.8
+Malaysia,Asia Pasifik,2012,227.7
+Malaysia,Asia Pasifik,2013,234.1
+Malaysia,Asia Pasifik,2014,243.1
+Malaysia,Asia Pasifik,2015,247.1
+Malaysia,Asia Pasifik,2016,252.6
+Malaysia,Asia Pasifik,2017,241.2
+Malaysia,Asia Pasifik,2018,251.1
+Malaysia,Asia Pasifik,2019,256.9
+Malaysia,Asia Pasifik,2020,240.6
+Malaysia,Asia Pasifik,2021,238.6
+Selandia Baru,Asia Pasifik,2010,34.4
+Selandia Baru,Asia Pasifik,2011,34.4
+Selandia Baru,Asia Pasifik,2012,36
+Selandia Baru,Asia Pasifik,2013,35.6
+Selandia Baru,Asia Pasifik,2014,35.6
+Selandia Baru,Asia Pasifik,2015,36.2
+Selandia Baru,Asia Pasifik,2016,35.5
+Selandia Baru,Asia Pasifik,2017,37.6
+Selandia Baru,Asia Pasifik,2018,37.4
+Selandia Baru,Asia Pasifik,2019,38.5
+Selandia Baru,Asia Pasifik,2020,33.4
+Selandia Baru,Asia Pasifik,2021,32.7
+Pakistan,Asia Pasifik,2010,146.1
+Pakistan,Asia Pasifik,2011,145.2
+Pakistan,Asia Pasifik,2012,144.6
+Pakistan,Asia Pasifik,2013,145.3
+Pakistan,Asia Pasifik,2014,151.7
+Pakistan,Asia Pasifik,2015,160.3
+Pakistan,Asia Pasifik,2016,176.5
+Pakistan,Asia Pasifik,2017,188.7
+Pakistan,Asia Pasifik,2018,196.9
+Pakistan,Asia Pasifik,2019,207.1
+Pakistan,Asia Pasifik,2020,206.3
+Pakistan,Asia Pasifik,2021,226.4
+Azerbaijan,CIS,2010,24.9
+Azerbaijan,CIS,2011,28.6
+Azerbaijan,CIS,2012,29.6
+Azerbaijan,CIS,2013,30.3
+Azerbaijan,CIS,2014,31
+Azerbaijan,CIS,2015,33.6
+Azerbaijan,CIS,2016,33.1
+Azerbaijan,CIS,2017,32
+Azerbaijan,CIS,2018,33.5
+Azerbaijan,CIS,2019,34.4
+Azerbaijan,CIS,2020,33.7
+Azerbaijan,CIS,2021,35.3
+Belarus,CIS,2010,62.4
+Belarus,CIS,2011,59.3
+Belarus,CIS,2012,60.8
+Belarus,CIS,2013,60.2
+Belarus,CIS,2014,59.2
+Belarus,CIS,2015,54.9
+Belarus,CIS,2016,55
+Belarus,CIS,2017,55.7
+Belarus,CIS,2018,60.6
+Belarus,CIS,2019,60.9
+Belarus,CIS,2020,56.1
+Belarus,CIS,2021,57.2
+Kazakhstan,CIS,2010,178.6
+Kazakhstan,CIS,2011,202
+Kazakhstan,CIS,2012,212
+Kazakhstan,CIS,2013,211.9
+Kazakhstan,CIS,2014,214.7
+Kazakhstan,CIS,2015,202.2
+Kazakhstan,CIS,2016,204
+Kazakhstan,CIS,2017,214.2
+Kazakhstan,CIS,2018,238.5
+Kazakhstan,CIS,2019,235
+Kazakhstan,CIS,2020,221.2
+Kazakhstan,CIS,2021,219.4
+Rusia,CIS,2010,1492.4
+Rusia,CIS,2011,1558.8
+Rusia,CIS,2012,1572.4
+Rusia,CIS,2013,1538.8
+Rusia,CIS,2014,1539.8
+Rusia,CIS,2015,1507
+Rusia,CIS,2016,1520.5
+Rusia,CIS,2017,1507.8
+Rusia,CIS,2018,1564.7
+Rusia,CIS,2019,1548.8
+Rusia,CIS,2020,1456.2
+Rusia,CIS,2021,1581.3
+Turkmenistan,CIS,2010,54.3
+Turkmenistan,CIS,2011,59.9
+Turkmenistan,CIS,2012,65.2
+Turkmenistan,CIS,2013,58.3
+Turkmenistan,CIS,2014,60.5
+Turkmenistan,CIS,2015,71.5
+Turkmenistan,CIS,2016,70.9
+Turkmenistan,CIS,2017,70.2
+Turkmenistan,CIS,2018,77.6
+Turkmenistan,CIS,2019,84.1
+Turkmenistan,CIS,2020,79.2
+Turkmenistan,CIS,2021,94.3
+Uzbekistan,CIS,2010,106.1
+Uzbekistan,CIS,2011,113.4
+Uzbekistan,CIS,2012,109.8
+Uzbekistan,CIS,2013,111.1
+Uzbekistan,CIS,2014,114.4
+Uzbekistan,CIS,2015,108.8
+Uzbekistan,CIS,2016,104.1
+Uzbekistan,CIS,2017,106.9
+Uzbekistan,CIS,2018,109.7
+Uzbekistan,CIS,2019,109.5
+Uzbekistan,CIS,2020,108.3
+Uzbekistan,CIS,2021,112.3
