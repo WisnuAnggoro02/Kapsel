@@ -1,0 +1,433 @@
+Negara	Region	Tahun	AHH	CO2
+Austria	Eropa	2011	81	67724.6393
+Austria	Eropa	2012	81.2	64679.2656
+Austria	Eropa	2013	81.3	65098.6022
+Austria	Eropa	2014	81.5	60855.6951
+Austria	Eropa	2015	81.6	62871.2608
+Austria	Eropa	2016	81.8	63809.3541
+Austria	Eropa	2017	82	66573.0216
+Austria	Eropa	2018	82.1	64552.7752
+Austria	Eropa	2019	82.2	66158.3503
+Austria	Eropa	2020	81.5	58515.7551
+Austria	Eropa	2021	82.4	60716.0754
+Austria	Eropa	2022	82.6	57833.9552
+Belgia	Eropa	2011	80.4	123375.8455
+Belgia	Eropa	2012	80.5	118922.6167
+Belgia	Eropa	2013	80.7	119967.7899
+Belgia	Eropa	2014	81	111748.3442
+Belgia	Eropa	2015	81.1	117668.9677
+Belgia	Eropa	2016	81.3	119417.0409
+Belgia	Eropa	2017	81.4	121199.8654
+Belgia	Eropa	2018	81.4	128058.2013
+Belgia	Eropa	2019	81.4	124638.1879
+Belgia	Eropa	2020	80.2	108002.7161
+Belgia	Eropa	2021	81.7	116259.9261
+Belgia	Eropa	2022	81.9	110925.0908
+Rumania	Eropa	2011	74.6	95208.6013
+Rumania	Eropa	2012	74.7	91785.6514
+Rumania	Eropa	2013	75.3	79348.2893
+Rumania	Eropa	2014	75	80949.0815
+Rumania	Eropa	2015	75.3	81976.9127
+Rumania	Eropa	2016	75.3	78975.6002
+Rumania	Eropa	2017	75.4	82756.3661
+Rumania	Eropa	2018	75.5	83358.4018
+Rumania	Eropa	2019	75.5	81752.3217
+Rumania	Eropa	2020	74.1	74322.8758
+Rumania	Eropa	2021	75.8	78848.7941
+Rumania	Eropa	2022	75.9	75587.0175
+Makedonia Utara	Eropa	2011	73.7	9809.7785
+Makedonia Utara	Eropa	2012	73.7	9352.9417
+Makedonia Utara	Eropa	2013	74	8267.5132
+Makedonia Utara	Eropa	2014	74	7801.9847
+Makedonia Utara	Eropa	2015	74	7479.7821
+Makedonia Utara	Eropa	2016	73.8	7272.4629
+Makedonia Utara	Eropa	2017	74.1	7780.0737
+Makedonia Utara	Eropa	2018	74.3	8466.1312
+Makedonia Utara	Eropa	2019	74.4	8356.6370
+Makedonia Utara	Eropa	2020	72.8	6878.4409
+Makedonia Utara	Eropa	2021	74.6	6885.9753
+Makedonia Utara	Eropa	2022	74.8	7351.9546
+Jerman	Eropa	2011	80.7	781955.2112
+Jerman	Eropa	2012	80.8	791022.6606
+Jerman	Eropa	2013	80.8	814981.8800
+Jerman	Eropa	2014	81	768208.8192
+Jerman	Eropa	2015	80.9	772472.9521
+Jerman	Eropa	2016	81	787579.5449
+Jerman	Eropa	2017	81.1	779033.7972
+Jerman	Eropa	2018	81.2	750769.7098
+Jerman	Eropa	2019	81.2	697786.0365
+Jerman	Eropa	2020	81	623188.2550
+Jerman	Eropa	2021	81.5	660930.5396
+Jerman	Eropa	2022	81.7	652353.3458
+Ukraina	Eropa	2011	71.5	315088.5130
+Ukraina	Eropa	2012	71.6	309953.2280
+Ukraina	Eropa	2013	71.8	297937.5090
+Ukraina	Eropa	2014	71.7	257418.8244
+Ukraina	Eropa	2015	72.5	204891.1143
+Ukraina	Eropa	2016	72.9	225687.1043
+Ukraina	Eropa	2017	73.8	197485.3395
+Ukraina	Eropa	2018	73.9	208821.8874
+Ukraina	Eropa	2019	73.8	195550.0448
+Ukraina	Eropa	2020	73.2	181386.0773
+Ukraina	Eropa	2021	74.1	177719.3058
+Ukraina	Eropa	2022	74.2	117798.4144
+Argentina	Amerika	2011	76	203640.6354
+Argentina	Amerika	2012	76.2	212748.9507
+Argentina	Amerika	2013	76.3	218410.8492
+Argentina	Amerika	2014	76.5	218623.1509
+Argentina	Amerika	2015	76.5	222142.9878
+Argentina	Amerika	2016	76.2	220183.4302
+Argentina	Amerika	2017	76.3	218416.0027
+Argentina	Amerika	2018	76.5	217571.2868
+Argentina	Amerika	2019	76.6	208403.1222
+Argentina	Amerika	2020	74.6	193279.3086
+Argentina	Amerika	2021	76.9	219456.4339
+Argentina	Amerika	2022	77	226946.4968
+Brazil	Amerika	2011	74	481069.3699
+Brazil	Amerika	2012	74.3	513331.3289
+Brazil	Amerika	2013	74.5	544704.2861
+Brazil	Amerika	2014	74.8	573013.9026
+Brazil	Amerika	2015	75	555367.6455
+Brazil	Amerika	2016	75	514333.3187
+Brazil	Amerika	2017	75.4	518484.9073
+Brazil	Amerika	2018	75.7	497958.0276
+Brazil	Amerika	2019	75.8	494343.7922
+Brazil	Amerika	2020	73.6	469204.8600
+Brazil	Amerika	2021	76.3	523983.1802
+Brazil	Amerika	2022	76.4	505965.3529
+Chile	Amerika	2011	79	84333.0993
+Chile	Amerika	2012	79.2	87099.8083
+Chile	Amerika	2013	79.3	90446.8635
+Chile	Amerika	2014	79.5	88664.1538
+Chile	Amerika	2015	79.6	88850.3047
+Chile	Amerika	2016	80	93848.6931
+Chile	Amerika	2017	80	95219.7441
+Chile	Amerika	2018	80.1	94751.2182
+Chile	Amerika	2019	80.2	96186.9014
+Chile	Amerika	2020	79.1	86453.7722
+Chile	Amerika	2021	80.5	95001.9199
+Chile	Amerika	2022	80.6	90995.1635
+Meksiko	Amerika	2011	75.5	559328.3577
+Meksiko	Amerika	2012	75.7	566872.4297
+Meksiko	Amerika	2013	75.5	570312.1208
+Meksiko	Amerika	2014	75.6	557597.5984
+Meksiko	Amerika	2015	75.7	553947.4470
+Meksiko	Amerika	2016	75.5	563632.7812
+Meksiko	Amerika	2017	75.5	569369.6425
+Meksiko	Amerika	2018	75.5	554544.7693
+Meksiko	Amerika	2019	75.6	544322.2258
+Meksiko	Amerika	2020	73	487070.9319
+Meksiko	Amerika	2021	75.8	523950.7894
+Meksiko	Amerika	2022	75.9	577492.5076
+Kanada	Amerika	2011	81.9	602813.1926
+Kanada	Amerika	2012	82	600394.1793
+Kanada	Amerika	2013	82.1	615783.4410
+Kanada	Amerika	2014	82.2	625031.1114
+Kanada	Amerika	2015	82.3	625256.4225
+Kanada	Amerika	2016	82.3	607860.7660
+Kanada	Amerika	2017	82.4	627990.8688
+Kanada	Amerika	2018	82.2	641152.9734
+Kanada	Amerika	2019	82.2	628354.9465
+Kanada	Amerika	2020	81.5	565768.6947
+Kanada	Amerika	2021	82.5	578851.3073
+Kanada	Amerika	2022	82.6	591448.0430
+Venezuela	Amerika	2011	75.4	332064.6783
+Venezuela	Amerika	2012	75.2	356522.8148
+Venezuela	Amerika	2013	75.5	361677.4958
+Venezuela	Amerika	2014	75.6	350939.6419
+Venezuela	Amerika	2015	75.7	342823.4938
+Venezuela	Amerika	2016	75.6	310376.6036
+Venezuela	Amerika	2017	75.5	284239.3532
+Venezuela	Amerika	2018	75.4	241452.1630
+Venezuela	Amerika	2019	75	203384.4160
+Venezuela	Amerika	2020	75.1	149771.2279
+Venezuela	Amerika	2021	75.1	167970.9443
+Venezuela	Amerika	2022	75.3	185394.3544
+Iran	Timur Tengah	2011	75.8	723046.0757
+Iran	Timur Tengah	2012	76	722203.9008
+Iran	Timur Tengah	2013	76.2	729222.3781
+Iran	Timur Tengah	2014	76.5	750894.3328
+Iran	Timur Tengah	2015	76.7	746133.8077
+Iran	Timur Tengah	2016	77.1	800154.3663
+Iran	Timur Tengah	2017	77.3	823451.0874
+Iran	Timur Tengah	2018	77.6	848155.5494
+Iran	Timur Tengah	2019	77.8	841027.6674
+Iran	Timur Tengah	2020	76.2	864503.9575
+Iran	Timur Tengah	2021	78.2	888393.7295
+Iran	Timur Tengah	2022	78.3	904782.3971
+Iraq	Timur Tengah	2011	71	184597.0794
+Iraq	Timur Tengah	2012	71.3	207593.2933
+Iraq	Timur Tengah	2013	70.9	226442.8743
+Iraq	Timur Tengah	2014	69.9	232847.5044
+Iraq	Timur Tengah	2015	70.7	251851.7378
+Iraq	Timur Tengah	2016	70.9	282920.9645
+Iraq	Timur Tengah	2017	71.5	302089.3555
+Iraq	Timur Tengah	2018	73.3	307661.9419
+Iraq	Timur Tengah	2019	73.3	315275.4311
+Iraq	Timur Tengah	2020	72.1	281190.3518
+Iraq	Timur Tengah	2021	73.6	291080.5953
+Iraq	Timur Tengah	2022	73.7	314456.8444
+Kuwait	Timur Tengah	2011	80.9	110211.7094
+Kuwait	Timur Tengah	2012	81	113326.3804
+Kuwait	Timur Tengah	2013	81.3	119571.7711
+Kuwait	Timur Tengah	2014	81.6	121117.3518
+Kuwait	Timur Tengah	2015	81.5	123346.6451
+Kuwait	Timur Tengah	2016	81.6	123871.7720
+Kuwait	Timur Tengah	2017	81.6	123063.3621
+Kuwait	Timur Tengah	2018	81.6	126153.9255
+Kuwait	Timur Tengah	2019	81.5	116206.2243
+Kuwait	Timur Tengah	2020	81.2	108408.4839
+Kuwait	Timur Tengah	2021	81.7	113099.4469
+Kuwait	Timur Tengah	2022	81.8	120540.3321
+Oman	Timur Tengah	2011	70.8	69189.0568
+Oman	Timur Tengah	2012	71.5	76685.1094
+Oman	Timur Tengah	2013	71.9	87797.8254
+Oman	Timur Tengah	2014	72.3	87435.3868
+Oman	Timur Tengah	2015	72.4	91847.2739
+Oman	Timur Tengah	2016	72.6	94211.0368
+Oman	Timur Tengah	2017	72.9	95937.1195
+Oman	Timur Tengah	2018	73.6	99913.2106
+Oman	Timur Tengah	2019	74	99755.4582
+Oman	Timur Tengah	2020	72.7	94556.8508
+Oman	Timur Tengah	2021	74.4	102622.7331
+Oman	Timur Tengah	2022	74.6	106841.1562
+Qatar	Timur Tengah	2011	73.9	95188.6238
+Qatar	Timur Tengah	2012	74.3	111942.4339
+Qatar	Timur Tengah	2013	74.7	125146.5098
+Qatar	Timur Tengah	2014	74.9	134480.6711
+Qatar	Timur Tengah	2015	75.5	147968.5365
+Qatar	Timur Tengah	2016	75.7	147876.7141
+Qatar	Timur Tengah	2017	75.9	140009.3142
+Qatar	Timur Tengah	2018	76.1	143306.6778
+Qatar	Timur Tengah	2019	76.3	148778.3912
+Qatar	Timur Tengah	2020	76.2	130426.9946
+Qatar	Timur Tengah	2021	76.5	138357.8997
+Qatar	Timur Tengah	2022	76.7	134634.8862
+Arab Saudi	Timur Tengah	2011	72.2	577408.1637
+Arab Saudi	Timur Tengah	2012	72.6	612284.2250
+Arab Saudi	Timur Tengah	2013	72.9	629084.0919
+Arab Saudi	Timur Tengah	2014	73.2	669718.6418
+Arab Saudi	Timur Tengah	2015	73.3	709001.0657
+Arab Saudi	Timur Tengah	2016	73.7	745775.7815
+Arab Saudi	Timur Tengah	2017	74	734487.6094
+Arab Saudi	Timur Tengah	2018	74.3	719052.9931
+Arab Saudi	Timur Tengah	2019	74.5	680280.6944
+Arab Saudi	Timur Tengah	2020	74.3	659253.0611
+Arab Saudi	Timur Tengah	2021	74.8	675833.9688
+Arab Saudi	Timur Tengah	2022	75	724018.5339
+Mesir	Afrika	2011	69.6	235234.2805
+Mesir	Afrika	2012	69.7	244200.7811
+Mesir	Afrika	2013	70.1	248503.3597
+Mesir	Afrika	2014	70.3	248694.5129
+Mesir	Afrika	2015	69.9	251909.1900
+Mesir	Afrika	2016	70.2	265949.6792
+Mesir	Afrika	2017	70.5	269714.8449
+Mesir	Afrika	2018	70.7	266504.4106
+Mesir	Afrika	2019	71	258171.1737
+Mesir	Afrika	2020	71	249678.0841
+Mesir	Afrika	2021	71.3	267982.1754
+Mesir	Afrika	2022	71.4	284296.8667
+Maroko	Afrika	2011	72.1	58285.2782
+Maroko	Afrika	2012	72.3	60011.6684
+Maroko	Afrika	2013	72.1	60636.1714
+Maroko	Afrika	2014	72.3	61896.7795
+Maroko	Afrika	2015	72.5	62189.0459
+Maroko	Afrika	2016	72.8	62489.7258
+Maroko	Afrika	2017	72.9	65342.0516
+Maroko	Afrika	2018	73.1	66758.1517
+Maroko	Afrika	2019	73.3	72983.0803
+Maroko	Afrika	2020	73	66701.4053
+Maroko	Afrika	2021	73.8	74223.2675
+Maroko	Afrika	2022	74	71691.9621
+Afrika Selatan	Afrika	2011	58.7	503151.7994
+Afrika Selatan	Afrika	2012	60.1	499610.9405
+Afrika Selatan	Afrika	2013	61.3	501156.1839
+Afrika Selatan	Afrika	2014	61.8	505998.8907
+Afrika Selatan	Afrika	2015	62.3	493977.8179
+Afrika Selatan	Afrika	2016	62.7	513045.5468
+Afrika Selatan	Afrika	2017	63.2	508834.3023
+Afrika Selatan	Afrika	2018	64.4	490908.0596
+Afrika Selatan	Afrika	2019	65.1	513063.7068
+Afrika Selatan	Afrika	2020	64.3	483616.5424
+Afrika Selatan	Afrika	2021	65.6	473599.0446
+Afrika Selatan	Afrika	2022	65.9	456155.2325
+Kenya	Afrika	2011	62	94500.2981
+Kenya	Afrika	2012	62.6	96587.4476
+Kenya	Afrika	2013	63.2	109250.6661
+Kenya	Afrika	2014	63.8	123320.9916
+Kenya	Afrika	2015	64.4	128661.9386
+Kenya	Afrika	2016	65.1	127377.7181
+Kenya	Afrika	2017	65.7	137450.8050
+Kenya	Afrika	2018	66.1	143284.2439
+Kenya	Afrika	2019	66.5	143501.3150
+Kenya	Afrika	2020	66.4	134702.9159
+Kenya	Afrika	2021	67	143773.6058
+Kenya	Afrika	2022	67.3	149424.9009
+Aljazair	Afrika	2011	74.7	178828.3829
+Aljazair	Afrika	2012	74.9	190248.5119
+Aljazair	Afrika	2013	75.1	206693.9695
+Aljazair	Afrika	2014	75.3	219078.6751
+Aljazair	Afrika	2015	75.4	225738.2600
+Aljazair	Afrika	2016	75.7	228761.1050
+Aljazair	Afrika	2017	75.9	231613.0490
+Aljazair	Afrika	2018	76	239463.4075
+Aljazair	Afrika	2019	76.2	243172.9594
+Aljazair	Afrika	2020	76.2	229195.9327
+Aljazair	Afrika	2021	76.6	247367.6247
+Aljazair	Afrika	2022	76.7	245962.5443
+Nigeria	Afrika	2011	60.2	187112.7793
+Nigeria	Afrika	2012	60.7	187556.6771
+Nigeria	Afrika	2013	61.2	181773.4971
+Nigeria	Afrika	2014	61.6	180264.0135
+Nigeria	Afrika	2015	62.1	194625.6548
+Nigeria	Afrika	2016	62.7	195524.0536
+Nigeria	Afrika	2017	63.3	206736.9183
+Nigeria	Afrika	2018	63.8	225563.4122
+Nigeria	Afrika	2019	64.3	235242.2712
+Nigeria	Afrika	2020	64.5	232051.5763
+Nigeria	Afrika	2021	65.1	239732.9385
+Nigeria	Afrika	2022	65.5	237282.1891
+Australia	Asia Pasifik	2011	82.3	453728.4140
+Australia	Asia Pasifik	2012	82.6	446623.7664
+Australia	Asia Pasifik	2013	82.7	448265.1869
+Australia	Asia Pasifik	2014	82.7	456417.9358
+Australia	Asia Pasifik	2015	82.7	467009.2829
+Australia	Asia Pasifik	2016	83	464450.1357
+Australia	Asia Pasifik	2017	83	464270.6725
+Australia	Asia Pasifik	2018	82.9	462902.5757
+Australia	Asia Pasifik	2019	82.9	472482.8231
+Australia	Asia Pasifik	2020	82.9	441137.2133
+Australia	Asia Pasifik	2021	83.2	431072.9000
+Australia	Asia Pasifik	2022	83.3	436974.5271
+Indonesia	Asia Pasifik	2011	69.6	584503.2357
+Indonesia	Asia Pasifik	2012	69.8	609246.1406
+Indonesia	Asia Pasifik	2013	70	578834.2168
+Indonesia	Asia Pasifik	2014	70.2	586370.5054
+Indonesia	Asia Pasifik	2015	70.4	595684.6877
+Indonesia	Asia Pasifik	2016	70.7	595992.1002
+Indonesia	Asia Pasifik	2017	70.9	617106.4971
+Indonesia	Asia Pasifik	2018	71.1	663863.0677
+Indonesia	Asia Pasifik	2019	71.4	712433.3387
+Indonesia	Asia Pasifik	2020	71.4	651508.2926
+Indonesia	Asia Pasifik	2021	71.8	657345.7129
+Indonesia	Asia Pasifik	2022	71.9	839600.1647
+Korea Selatan	Asia Pasifik	2011	81.2	642366.3786
+Korea Selatan	Asia Pasifik	2012	81.5	641521.0429
+Korea Selatan	Asia Pasifik	2013	81.9	649012.2731
+Korea Selatan	Asia Pasifik	2014	82.3	644114.8950
+Korea Selatan	Asia Pasifik	2015	82.6	652094.4131
+Korea Selatan	Asia Pasifik	2016	82.8	663456.9318
+Korea Selatan	Asia Pasifik	2017	82.9	671723.3565
+Korea Selatan	Asia Pasifik	2018	82.9	687291.2716
+Korea Selatan	Asia Pasifik	2019	82.9	663737.4038
+Korea Selatan	Asia Pasifik	2020	82.8	614425.2811
+Korea Selatan	Asia Pasifik	2021	83.2	630324.4228
+Korea Selatan	Asia Pasifik	2022	83.3	618226.1667
+Malaysia	Asia Pasifik	2011	74.6	229812.9069
+Malaysia	Asia Pasifik	2012	74.8	248507.9378
+Malaysia	Asia Pasifik	2013	75.3	260196.6221
+Malaysia	Asia Pasifik	2014	75.1	271461.6955
+Malaysia	Asia Pasifik	2015	75	275519.6354
+Malaysia	Asia Pasifik	2016	75	280069.9025
+Malaysia	Asia Pasifik	2017	75.1	267135.0687
+Malaysia	Asia Pasifik	2018	75.2	276351.3486
+Malaysia	Asia Pasifik	2019	75	281527.4390
+Malaysia	Asia Pasifik	2020	75.1	273784.8216
+Malaysia	Asia Pasifik	2021	75.3	281707.3414
+Malaysia	Asia Pasifik	2022	75.5	298531.7127
+Selandia Baru	Asia Pasifik	2011	80.9	35983.4957
+Selandia Baru	Asia Pasifik	2012	81.2	37439.7016
+Selandia Baru	Asia Pasifik	2013	81.5	36963.8570
+Selandia Baru	Asia Pasifik	2014	81.5	36943.4724
+Selandia Baru	Asia Pasifik	2015	81.7	37478.5895
+Selandia Baru	Asia Pasifik	2016	81.9	36401.1327
+Selandia Baru	Asia Pasifik	2017	82	38351.8781
+Selandia Baru	Asia Pasifik	2018	81.8	38095.7418
+Selandia Baru	Asia Pasifik	2019	81.8	39491.7130
+Selandia Baru	Asia Pasifik	2020	81.8	34492.2323
+Selandia Baru	Asia Pasifik	2021	82.1	33767.2559
+Selandia Baru	Asia Pasifik	2022	82.2	31627.8349
+Pakistan	Asia Pasifik	2011	63.6	168387.0596
+Pakistan	Asia Pasifik	2012	63.8	168656.4507
+Pakistan	Asia Pasifik	2013	64	171284.5916
+Pakistan	Asia Pasifik	2014	64.2	177575.2483
+Pakistan	Asia Pasifik	2015	64.4	186152.7466
+Pakistan	Asia Pasifik	2016	64.7	203209.5489
+Pakistan	Asia Pasifik	2017	64.9	214998.5274
+Pakistan	Asia Pasifik	2018	65.5	223117.9078
+Pakistan	Asia Pasifik	2019	65.9	222560.3785
+Pakistan	Asia Pasifik	2020	65.9	237427.7339
+Pakistan	Asia Pasifik	2021	66.2	263099.6141
+Pakistan	Asia Pasifik	2022	66.3	237028.0309
+Azerbaijan	CIS	2011	69.2	40379.1926
+Azerbaijan	CIS	2012	69.5	40775.4608
+Azerbaijan	CIS	2013	69.7	41146.6746
+Azerbaijan	CIS	2014	69.9	41407.8712
+Azerbaijan	CIS	2015	70.2	43384.5935
+Azerbaijan	CIS	2016	70.3	42719.2014
+Azerbaijan	CIS	2017	70.4	41312.1901
+Azerbaijan	CIS	2018	70.8	43263.3085
+Azerbaijan	CIS	2019	71	44115.1669
+Azerbaijan	CIS	2020	70.4	44189.3097
+Azerbaijan	CIS	2021	71.2	47066.3630
+Azerbaijan	CIS	2022	71.3	47401.4012
+Belarus	CIS	2011	70.5	62814.8968
+Belarus	CIS	2012	72.3	64576.6890
+Belarus	CIS	2013	72.8	64093.8051
+Belarus	CIS	2014	73.1	63108.8028
+Belarus	CIS	2015	73.7	58239.0263
+Belarus	CIS	2016	73.8	58408.3178
+Belarus	CIS	2017	73.8	59322.0162
+Belarus	CIS	2018	74	64629.4939
+Belarus	CIS	2019	74	65149.1273
+Belarus	CIS	2020	73.5	59533.2197
+Belarus	CIS	2021	74.3	60577.4223
+Belarus	CIS	2022	74.4	59119.6964
+Kazakhstan	CIS	2011	68.1	264646.1599
+Kazakhstan	CIS	2012	68.6	274669.7632
+Kazakhstan	CIS	2013	69.4	279138.2377
+Kazakhstan	CIS	2014	70.1	285049.8760
+Kazakhstan	CIS	2015	70.6	239340.1519
+Kazakhstan	CIS	2016	71.1	258515.9580
+Kazakhstan	CIS	2017	71.5	277232.2907
+Kazakhstan	CIS	2018	71.7	286712.1176
+Kazakhstan	CIS	2019	71.9	281157.2580
+Kazakhstan	CIS	2020	71.2	263272.7648
+Kazakhstan	CIS	2021	72.3	274896.9585
+Kazakhstan	CIS	2022	72.3	286858.8233
+Rusia	CIS	2011	70	2067597.7441
+Rusia	CIS	2012	70.5	2084659.1233
+Rusia	CIS	2013	70.9	2060536.5840
+Rusia	CIS	2014	71	2055175.8957
+Rusia	CIS	2015	71.5	2029528.6251
+Rusia	CIS	2016	72	2056683.1149
+Rusia	CIS	2017	72.9	2054504.2120
+Rusia	CIS	2018	73	2138569.6892
+Rusia	CIS	2019	73	2141302.9494
+Rusia	CIS	2020	71.2	2014176.4421
+Rusia	CIS	2021	73.3	2175182.4126
+Rusia	CIS	2022	73.4	2024031.1751
+Turkmenistan	CIS	2011	69.6	122075.4574
+Turkmenistan	CIS	2012	69.8	131487.8815
+Turkmenistan	CIS	2013	69.8	133159.6484
+Turkmenistan	CIS	2014	69.9	133794.6008
+Turkmenistan	CIS	2015	70	146399.1028
+Turkmenistan	CIS	2016	70.3	143557.4631
+Turkmenistan	CIS	2017	70.5	142370.6282
+Turkmenistan	CIS	2018	70.6	151695.6445
+Turkmenistan	CIS	2019	70.8	152177.0307
+Turkmenistan	CIS	2020	70.9	163847.4669
+Turkmenistan	CIS	2021	71.1	180351.7104
+Turkmenistan	CIS	2022	71.2	183492.6166
+Uzbekistan	CIS	2011	66.6	141304.2397
+Uzbekistan	CIS	2012	66.7	137995.0756
+Uzbekistan	CIS	2013	67	139504.8976
+Uzbekistan	CIS	2014	67.2	140386.4372
+Uzbekistan	CIS	2015	67.3	134343.4246
+Uzbekistan	CIS	2016	67.6	130205.0330
+Uzbekistan	CIS	2017	67.8	132943.6441
+Uzbekistan	CIS	2018	68.1	139103.9105
+Uzbekistan	CIS	2019	68.4	139351.6308
+Uzbekistan	CIS	2020	68.4	140128.4667
+Uzbekistan	CIS	2021	68.7	148154.5402
+Uzbekistan	CIS	2022	68.7	150864.8169
