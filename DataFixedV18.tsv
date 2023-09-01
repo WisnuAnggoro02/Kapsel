@@ -1,0 +1,433 @@
+Negara	Region	Tahun	CO2
+Austria	Eropa	2011	67.7
+Austria	Eropa	2012	64.7
+Austria	Eropa	2013	65.1
+Austria	Eropa	2014	60.9
+Austria	Eropa	2015	62.9
+Austria	Eropa	2016	63.8
+Austria	Eropa	2017	66.6
+Austria	Eropa	2018	64.6
+Austria	Eropa	2019	66.2
+Austria	Eropa	2020	58.5
+Austria	Eropa	2021	60.7
+Austria	Eropa	2022	57.8
+Belgia	Eropa	2011	123.4
+Belgia	Eropa	2012	118.9
+Belgia	Eropa	2013	120.0
+Belgia	Eropa	2014	111.7
+Belgia	Eropa	2015	117.7
+Belgia	Eropa	2016	119.4
+Belgia	Eropa	2017	121.2
+Belgia	Eropa	2018	128.1
+Belgia	Eropa	2019	124.6
+Belgia	Eropa	2020	108.0
+Belgia	Eropa	2021	116.3
+Belgia	Eropa	2022	110.9
+Rumania	Eropa	2011	95.2
+Rumania	Eropa	2012	91.8
+Rumania	Eropa	2013	79.3
+Rumania	Eropa	2014	80.9
+Rumania	Eropa	2015	82.0
+Rumania	Eropa	2016	79.0
+Rumania	Eropa	2017	82.8
+Rumania	Eropa	2018	83.4
+Rumania	Eropa	2019	81.8
+Rumania	Eropa	2020	74.3
+Rumania	Eropa	2021	78.8
+Rumania	Eropa	2022	75.6
+Makedonia Utara	Eropa	2011	9.8
+Makedonia Utara	Eropa	2012	9.4
+Makedonia Utara	Eropa	2013	8.3
+Makedonia Utara	Eropa	2014	7.8
+Makedonia Utara	Eropa	2015	7.5
+Makedonia Utara	Eropa	2016	7.3
+Makedonia Utara	Eropa	2017	7.8
+Makedonia Utara	Eropa	2018	8.5
+Makedonia Utara	Eropa	2019	8.4
+Makedonia Utara	Eropa	2020	6.9
+Makedonia Utara	Eropa	2021	6.9
+Makedonia Utara	Eropa	2022	7.4
+Jerman	Eropa	2011	782.0
+Jerman	Eropa	2012	791.0
+Jerman	Eropa	2013	815.0
+Jerman	Eropa	2014	768.2
+Jerman	Eropa	2015	772.5
+Jerman	Eropa	2016	787.6
+Jerman	Eropa	2017	779.0
+Jerman	Eropa	2018	750.8
+Jerman	Eropa	2019	697.8
+Jerman	Eropa	2020	623.2
+Jerman	Eropa	2021	660.9
+Jerman	Eropa	2022	652.4
+Ukraina	Eropa	2011	315.1
+Ukraina	Eropa	2012	310.0
+Ukraina	Eropa	2013	297.9
+Ukraina	Eropa	2014	257.4
+Ukraina	Eropa	2015	204.9
+Ukraina	Eropa	2016	225.7
+Ukraina	Eropa	2017	197.5
+Ukraina	Eropa	2018	208.8
+Ukraina	Eropa	2019	195.6
+Ukraina	Eropa	2020	181.4
+Ukraina	Eropa	2021	177.7
+Ukraina	Eropa	2022	117.8
+Argentina	Amerika	2011	203.6
+Argentina	Amerika	2012	212.7
+Argentina	Amerika	2013	218.4
+Argentina	Amerika	2014	218.6
+Argentina	Amerika	2015	222.1
+Argentina	Amerika	2016	220.2
+Argentina	Amerika	2017	218.4
+Argentina	Amerika	2018	217.6
+Argentina	Amerika	2019	208.4
+Argentina	Amerika	2020	193.3
+Argentina	Amerika	2021	219.5
+Argentina	Amerika	2022	226.9
+Brazil	Amerika	2011	481.1
+Brazil	Amerika	2012	513.3
+Brazil	Amerika	2013	544.7
+Brazil	Amerika	2014	573.0
+Brazil	Amerika	2015	555.4
+Brazil	Amerika	2016	514.3
+Brazil	Amerika	2017	518.5
+Brazil	Amerika	2018	498.0
+Brazil	Amerika	2019	494.3
+Brazil	Amerika	2020	469.2
+Brazil	Amerika	2021	524.0
+Brazil	Amerika	2022	506.0
+Chile	Amerika	2011	84.3
+Chile	Amerika	2012	87.1
+Chile	Amerika	2013	90.4
+Chile	Amerika	2014	88.7
+Chile	Amerika	2015	88.9
+Chile	Amerika	2016	93.8
+Chile	Amerika	2017	95.2
+Chile	Amerika	2018	94.8
+Chile	Amerika	2019	96.2
+Chile	Amerika	2020	86.5
+Chile	Amerika	2021	95.0
+Chile	Amerika	2022	91.0
+Meksiko	Amerika	2011	559.3
+Meksiko	Amerika	2012	566.9
+Meksiko	Amerika	2013	570.3
+Meksiko	Amerika	2014	557.6
+Meksiko	Amerika	2015	553.9
+Meksiko	Amerika	2016	563.6
+Meksiko	Amerika	2017	569.4
+Meksiko	Amerika	2018	554.5
+Meksiko	Amerika	2019	544.3
+Meksiko	Amerika	2020	487.1
+Meksiko	Amerika	2021	524.0
+Meksiko	Amerika	2022	577.5
+Kanada	Amerika	2011	602.8
+Kanada	Amerika	2012	600.4
+Kanada	Amerika	2013	615.8
+Kanada	Amerika	2014	625.0
+Kanada	Amerika	2015	625.3
+Kanada	Amerika	2016	607.9
+Kanada	Amerika	2017	628.0
+Kanada	Amerika	2018	641.2
+Kanada	Amerika	2019	628.4
+Kanada	Amerika	2020	565.8
+Kanada	Amerika	2021	578.9
+Kanada	Amerika	2022	591.4
+Venezuela	Amerika	2011	332.1
+Venezuela	Amerika	2012	356.5
+Venezuela	Amerika	2013	361.7
+Venezuela	Amerika	2014	350.9
+Venezuela	Amerika	2015	342.8
+Venezuela	Amerika	2016	310.4
+Venezuela	Amerika	2017	284.2
+Venezuela	Amerika	2018	241.5
+Venezuela	Amerika	2019	203.4
+Venezuela	Amerika	2020	149.8
+Venezuela	Amerika	2021	168.0
+Venezuela	Amerika	2022	185.4
+Iran	Timur Tengah	2011	723.0
+Iran	Timur Tengah	2012	722.2
+Iran	Timur Tengah	2013	729.2
+Iran	Timur Tengah	2014	750.9
+Iran	Timur Tengah	2015	746.1
+Iran	Timur Tengah	2016	800.2
+Iran	Timur Tengah	2017	823.5
+Iran	Timur Tengah	2018	848.2
+Iran	Timur Tengah	2019	841.0
+Iran	Timur Tengah	2020	864.5
+Iran	Timur Tengah	2021	888.4
+Iran	Timur Tengah	2022	904.8
+Iraq	Timur Tengah	2011	184.6
+Iraq	Timur Tengah	2012	207.6
+Iraq	Timur Tengah	2013	226.4
+Iraq	Timur Tengah	2014	232.8
+Iraq	Timur Tengah	2015	251.9
+Iraq	Timur Tengah	2016	282.9
+Iraq	Timur Tengah	2017	302.1
+Iraq	Timur Tengah	2018	307.7
+Iraq	Timur Tengah	2019	315.3
+Iraq	Timur Tengah	2020	281.2
+Iraq	Timur Tengah	2021	291.1
+Iraq	Timur Tengah	2022	314.5
+Kuwait	Timur Tengah	2011	110.2
+Kuwait	Timur Tengah	2012	113.3
+Kuwait	Timur Tengah	2013	119.6
+Kuwait	Timur Tengah	2014	121.1
+Kuwait	Timur Tengah	2015	123.3
+Kuwait	Timur Tengah	2016	123.9
+Kuwait	Timur Tengah	2017	123.1
+Kuwait	Timur Tengah	2018	126.2
+Kuwait	Timur Tengah	2019	116.2
+Kuwait	Timur Tengah	2020	108.4
+Kuwait	Timur Tengah	2021	113.1
+Kuwait	Timur Tengah	2022	120.5
+Oman	Timur Tengah	2011	69.2
+Oman	Timur Tengah	2012	76.7
+Oman	Timur Tengah	2013	87.8
+Oman	Timur Tengah	2014	87.4
+Oman	Timur Tengah	2015	91.8
+Oman	Timur Tengah	2016	94.2
+Oman	Timur Tengah	2017	95.9
+Oman	Timur Tengah	2018	99.9
+Oman	Timur Tengah	2019	99.8
+Oman	Timur Tengah	2020	94.6
+Oman	Timur Tengah	2021	102.6
+Oman	Timur Tengah	2022	106.8
+Qatar	Timur Tengah	2011	95.2
+Qatar	Timur Tengah	2012	111.9
+Qatar	Timur Tengah	2013	125.1
+Qatar	Timur Tengah	2014	134.5
+Qatar	Timur Tengah	2015	148.0
+Qatar	Timur Tengah	2016	147.9
+Qatar	Timur Tengah	2017	140.0
+Qatar	Timur Tengah	2018	143.3
+Qatar	Timur Tengah	2019	148.8
+Qatar	Timur Tengah	2020	130.4
+Qatar	Timur Tengah	2021	138.4
+Qatar	Timur Tengah	2022	134.6
+Arab Saudi	Timur Tengah	2011	577.4
+Arab Saudi	Timur Tengah	2012	612.3
+Arab Saudi	Timur Tengah	2013	629.1
+Arab Saudi	Timur Tengah	2014	669.7
+Arab Saudi	Timur Tengah	2015	709.0
+Arab Saudi	Timur Tengah	2016	745.8
+Arab Saudi	Timur Tengah	2017	734.5
+Arab Saudi	Timur Tengah	2018	719.1
+Arab Saudi	Timur Tengah	2019	680.3
+Arab Saudi	Timur Tengah	2020	659.3
+Arab Saudi	Timur Tengah	2021	675.8
+Arab Saudi	Timur Tengah	2022	724.0
+Mesir	Afrika	2011	235.2
+Mesir	Afrika	2012	244.2
+Mesir	Afrika	2013	248.5
+Mesir	Afrika	2014	248.7
+Mesir	Afrika	2015	251.9
+Mesir	Afrika	2016	265.9
+Mesir	Afrika	2017	269.7
+Mesir	Afrika	2018	266.5
+Mesir	Afrika	2019	258.2
+Mesir	Afrika	2020	249.7
+Mesir	Afrika	2021	268.0
+Mesir	Afrika	2022	284.3
+Maroko	Afrika	2011	58.3
+Maroko	Afrika	2012	60.0
+Maroko	Afrika	2013	60.6
+Maroko	Afrika	2014	61.9
+Maroko	Afrika	2015	62.2
+Maroko	Afrika	2016	62.5
+Maroko	Afrika	2017	65.3
+Maroko	Afrika	2018	66.8
+Maroko	Afrika	2019	73.0
+Maroko	Afrika	2020	66.7
+Maroko	Afrika	2021	74.2
+Maroko	Afrika	2022	71.7
+Afrika Selatan	Afrika	2011	503.2
+Afrika Selatan	Afrika	2012	499.6
+Afrika Selatan	Afrika	2013	501.2
+Afrika Selatan	Afrika	2014	506.0
+Afrika Selatan	Afrika	2015	494.0
+Afrika Selatan	Afrika	2016	513.0
+Afrika Selatan	Afrika	2017	508.8
+Afrika Selatan	Afrika	2018	490.9
+Afrika Selatan	Afrika	2019	513.1
+Afrika Selatan	Afrika	2020	483.6
+Afrika Selatan	Afrika	2021	473.6
+Afrika Selatan	Afrika	2022	456.2
+Kenya	Afrika	2011	94.5
+Kenya	Afrika	2012	96.6
+Kenya	Afrika	2013	109.3
+Kenya	Afrika	2014	123.3
+Kenya	Afrika	2015	128.7
+Kenya	Afrika	2016	127.4
+Kenya	Afrika	2017	137.5
+Kenya	Afrika	2018	143.3
+Kenya	Afrika	2019	143.5
+Kenya	Afrika	2020	134.7
+Kenya	Afrika	2021	143.8
+Kenya	Afrika	2022	149.4
+Aljazair	Afrika	2011	178.8
+Aljazair	Afrika	2012	190.2
+Aljazair	Afrika	2013	206.7
+Aljazair	Afrika	2014	219.1
+Aljazair	Afrika	2015	225.7
+Aljazair	Afrika	2016	228.8
+Aljazair	Afrika	2017	231.6
+Aljazair	Afrika	2018	239.5
+Aljazair	Afrika	2019	243.2
+Aljazair	Afrika	2020	229.2
+Aljazair	Afrika	2021	247.4
+Aljazair	Afrika	2022	246.0
+Nigeria	Afrika	2011	187.1
+Nigeria	Afrika	2012	187.6
+Nigeria	Afrika	2013	181.8
+Nigeria	Afrika	2014	180.3
+Nigeria	Afrika	2015	194.6
+Nigeria	Afrika	2016	195.5
+Nigeria	Afrika	2017	206.7
+Nigeria	Afrika	2018	225.6
+Nigeria	Afrika	2019	235.2
+Nigeria	Afrika	2020	232.1
+Nigeria	Afrika	2021	239.7
+Nigeria	Afrika	2022	237.3
+Australia	Asia Pasifik	2011	453.7
+Australia	Asia Pasifik	2012	446.6
+Australia	Asia Pasifik	2013	448.3
+Australia	Asia Pasifik	2014	456.4
+Australia	Asia Pasifik	2015	467.0
+Australia	Asia Pasifik	2016	464.5
+Australia	Asia Pasifik	2017	464.3
+Australia	Asia Pasifik	2018	462.9
+Australia	Asia Pasifik	2019	472.5
+Australia	Asia Pasifik	2020	441.1
+Australia	Asia Pasifik	2021	431.1
+Australia	Asia Pasifik	2022	437.0
+Indonesia	Asia Pasifik	2011	584.5
+Indonesia	Asia Pasifik	2012	609.2
+Indonesia	Asia Pasifik	2013	578.8
+Indonesia	Asia Pasifik	2014	586.4
+Indonesia	Asia Pasifik	2015	595.7
+Indonesia	Asia Pasifik	2016	596.0
+Indonesia	Asia Pasifik	2017	617.1
+Indonesia	Asia Pasifik	2018	663.9
+Indonesia	Asia Pasifik	2019	712.4
+Indonesia	Asia Pasifik	2020	651.5
+Indonesia	Asia Pasifik	2021	657.3
+Indonesia	Asia Pasifik	2022	839.6
+Korea Selatan	Asia Pasifik	2011	642.4
+Korea Selatan	Asia Pasifik	2012	641.5
+Korea Selatan	Asia Pasifik	2013	649.0
+Korea Selatan	Asia Pasifik	2014	644.1
+Korea Selatan	Asia Pasifik	2015	652.1
+Korea Selatan	Asia Pasifik	2016	663.5
+Korea Selatan	Asia Pasifik	2017	671.7
+Korea Selatan	Asia Pasifik	2018	687.3
+Korea Selatan	Asia Pasifik	2019	663.7
+Korea Selatan	Asia Pasifik	2020	614.4
+Korea Selatan	Asia Pasifik	2021	630.3
+Korea Selatan	Asia Pasifik	2022	618.2
+Malaysia	Asia Pasifik	2011	229.8
+Malaysia	Asia Pasifik	2012	248.5
+Malaysia	Asia Pasifik	2013	260.2
+Malaysia	Asia Pasifik	2014	271.5
+Malaysia	Asia Pasifik	2015	275.5
+Malaysia	Asia Pasifik	2016	280.1
+Malaysia	Asia Pasifik	2017	267.1
+Malaysia	Asia Pasifik	2018	276.4
+Malaysia	Asia Pasifik	2019	281.5
+Malaysia	Asia Pasifik	2020	273.8
+Malaysia	Asia Pasifik	2021	281.7
+Malaysia	Asia Pasifik	2022	298.5
+Selandia Baru	Asia Pasifik	2011	36.0
+Selandia Baru	Asia Pasifik	2012	37.4
+Selandia Baru	Asia Pasifik	2013	37.0
+Selandia Baru	Asia Pasifik	2014	36.9
+Selandia Baru	Asia Pasifik	2015	37.5
+Selandia Baru	Asia Pasifik	2016	36.4
+Selandia Baru	Asia Pasifik	2017	38.4
+Selandia Baru	Asia Pasifik	2018	38.1
+Selandia Baru	Asia Pasifik	2019	39.5
+Selandia Baru	Asia Pasifik	2020	34.5
+Selandia Baru	Asia Pasifik	2021	33.8
+Selandia Baru	Asia Pasifik	2022	31.6
+Pakistan	Asia Pasifik	2011	168.4
+Pakistan	Asia Pasifik	2012	168.7
+Pakistan	Asia Pasifik	2013	171.3
+Pakistan	Asia Pasifik	2014	177.6
+Pakistan	Asia Pasifik	2015	186.2
+Pakistan	Asia Pasifik	2016	203.2
+Pakistan	Asia Pasifik	2017	215.0
+Pakistan	Asia Pasifik	2018	223.1
+Pakistan	Asia Pasifik	2019	222.6
+Pakistan	Asia Pasifik	2020	237.4
+Pakistan	Asia Pasifik	2021	263.1
+Pakistan	Asia Pasifik	2022	237.0
+Azerbaijan	CIS	2011	40.4
+Azerbaijan	CIS	2012	40.8
+Azerbaijan	CIS	2013	41.1
+Azerbaijan	CIS	2014	41.4
+Azerbaijan	CIS	2015	43.4
+Azerbaijan	CIS	2016	42.7
+Azerbaijan	CIS	2017	41.3
+Azerbaijan	CIS	2018	43.3
+Azerbaijan	CIS	2019	44.1
+Azerbaijan	CIS	2020	44.2
+Azerbaijan	CIS	2021	47.1
+Azerbaijan	CIS	2022	47.4
+Belarus	CIS	2011	62.8
+Belarus	CIS	2012	64.6
+Belarus	CIS	2013	64.1
+Belarus	CIS	2014	63.1
+Belarus	CIS	2015	58.2
+Belarus	CIS	2016	58.4
+Belarus	CIS	2017	59.3
+Belarus	CIS	2018	64.6
+Belarus	CIS	2019	65.1
+Belarus	CIS	2020	59.5
+Belarus	CIS	2021	60.6
+Belarus	CIS	2022	59.1
+Kazakhstan	CIS	2011	264.6
+Kazakhstan	CIS	2012	274.7
+Kazakhstan	CIS	2013	279.1
+Kazakhstan	CIS	2014	285.0
+Kazakhstan	CIS	2015	239.3
+Kazakhstan	CIS	2016	258.5
+Kazakhstan	CIS	2017	277.2
+Kazakhstan	CIS	2018	286.7
+Kazakhstan	CIS	2019	281.2
+Kazakhstan	CIS	2020	263.3
+Kazakhstan	CIS	2021	274.9
+Kazakhstan	CIS	2022	286.9
+Rusia	CIS	2011	2067.6
+Rusia	CIS	2012	2084.7
+Rusia	CIS	2013	2060.5
+Rusia	CIS	2014	2055.2
+Rusia	CIS	2015	2029.5
+Rusia	CIS	2016	2056.7
+Rusia	CIS	2017	2054.5
+Rusia	CIS	2018	2138.6
+Rusia	CIS	2019	2141.3
+Rusia	CIS	2020	2014.2
+Rusia	CIS	2021	2175.2
+Rusia	CIS	2022	2024.0
+Turkmenistan	CIS	2011	122.1
+Turkmenistan	CIS	2012	131.5
+Turkmenistan	CIS	2013	133.2
+Turkmenistan	CIS	2014	133.8
+Turkmenistan	CIS	2015	146.4
+Turkmenistan	CIS	2016	143.6
+Turkmenistan	CIS	2017	142.4
+Turkmenistan	CIS	2018	151.7
+Turkmenistan	CIS	2019	152.2
+Turkmenistan	CIS	2020	163.8
+Turkmenistan	CIS	2021	180.4
+Turkmenistan	CIS	2022	183.5
+Uzbekistan	CIS	2011	141.3
+Uzbekistan	CIS	2012	138.0
+Uzbekistan	CIS	2013	139.5
+Uzbekistan	CIS	2014	140.4
+Uzbekistan	CIS	2015	134.3
+Uzbekistan	CIS	2016	130.2
+Uzbekistan	CIS	2017	132.9
+Uzbekistan	CIS	2018	139.1
+Uzbekistan	CIS	2019	139.4
+Uzbekistan	CIS	2020	140.1
+Uzbekistan	CIS	2021	148.2
+Uzbekistan	CIS	2022	150.9
